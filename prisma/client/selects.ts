@@ -42,7 +42,13 @@ export const paymentSelect: {select: Prisma.paymentsSelect} = {
         status: true,
         transaction_id: true,
         url: true,
-        type: true
+        type: true,
+        coupons: {
+            select: {
+                code: true,
+                discount_percent: true
+            }
+        }
     }
 }
 

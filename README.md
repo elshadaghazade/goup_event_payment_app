@@ -1,38 +1,86 @@
-# Medical Platform Gateway app
+# GOUP Event Payment App
 
-Medical Platform Gateway application provides REST API and front-end using Next.js 13 framework, GRPC.
+GOUP Event Payment App is a backend service designed to manage event registrations, participant management, payment processing, and more. This project uses Next.js, Prisma, PostgreSQL, Redis, and other modern technologies.
 
-## Usage
+## Prerequisites
 
-To install all dependencies:
+Before you begin, ensure you have the following installed:
+- Node.js
+- Docker
+- Docker Compose
+- npm (Node package manager)
+
+## Setup Instructions
+
+### Cloning the Repository
+
+Start by cloning the repository to your local machine:
 
 ```bash
-npm install
+git clone https://github.com/elshadaghazade/goup-event-app.git
+cd goup-event-app
 ```
 
-To run this application in development mode:
+## Environment Setup
+
+Copy the **.env.sample** file to create environment-specific files:
+
+```bash
+cp .env.sample .env
+cp .env.sample .env.development
+cp .env.sample .env.test
+```
+
+Edit these files to match your local and testing environment configurations. Ensure all necessary variables are set, such as **DATABASE_URL**, **REDIS_HOST**, **REDIS_PORT**, and **PAYMES_SECRET**.
+
+## Docker Containers
+
+Run the following command to start the required Docker containers for PostgreSQL and Redis:
+
+```bash
+docker-compose up -d
+```
+
+This command starts the development and test databases as well as the Redis container for caching.
+
+## Database Migrations
+
+Apply database migrations to your PostgreSQL instances:
+
+```bash
+npm run migrate
+```
+
+## Seeding the Database
+
+To populate the database with initial data for testing:
+
+```bash
+npm run seed
+```
+
+## Running the Application
+
+To start the application in development mode, run:
 
 ```bash
 npm run dev
 ```
 
-To run this application in production mode:
+This command starts the Next.js server with hot reloading enabled.
+
+## Testing
+
+To run the automated tests, use:
+
 ```bash
-npm run build && npm start
+npm run test
 ```
 
-To generate codebase documentation:
-```bash
-npm run doc:gen
-```
+This command executes the test suite configured for the application.
 
-After the documentation generation all doc files will be located in the "docs" folder.
+## Database Documentation
 
-## ERROR KEYWORDS
-- BAD_REQUEST
-- FORBIDDEN
-- TOO_MANY_REQUESTS
-- EMAIL_FORMAT_IS_WRONG
-- EVENT_NOT_FOUND
-- PACKAGE_NOT_FOUND
-- PARTICIPANT_NOT_FOUND
+You can view the database schema and relationships via the dbdiagram dashboard:
+
+[GOUP Event App Database Diagram](https://dbdocs.io/elshadaghazade/GOUP_EVENT_APP)
