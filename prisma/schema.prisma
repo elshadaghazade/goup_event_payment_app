@@ -1,0 +1,106 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model coupons {
+  id               Int        @id @default(autoincrement())
+  code             String?    @unique @db.VarChar(255)
+  speaker_id       Int
+  discount_percent Int?
+  description      String?
+  valid_until      DateTime   @db.Timestamp(6)
+  created_at       DateTime   @db.Timestamp(6)
+  modified_at      DateTime?  @db.Timestamp(6)
+  speakers         speakers   @relation(fields: [speaker_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  payments         payments[]
+}
+
+model events {
+  id             Int              @id @default(autoincrement())
+  name           String           @db.VarChar(255)
+  description    String?
+  location       String           @db.VarChar(255)
+  start_date     DateTime?        @db.Timestamp(6)
+  end_date       DateTime?        @db.Timestamp(6)
+  created_at     DateTime         @db.Timestamp(6)
+  modified_at    DateTime?        @db.Timestamp(6)
+  event_speakers event_speakers[]
+  packages       packages[]
+  participants   participants[]
+  payments       payments[]
+}
+
+model packages {
+  id          Int                   @id @default(autoincrement())
+  event_id    Int?
+  type        participant_role_enum
+  price       Decimal               @db.Decimal(12, 2)
+  description String?
+  created_at  DateTime              @db.Timestamp(6)
+  modified_at DateTime?             @db.Timestamp(6)
+  events      events?               @relation(fields: [event_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  payments    payments[]
+}
+
+model participants {
+  id         Int                   @id @default(autoincrement())
+  role       participant_role_enum
+  name       String                @db.VarChar(50)
+  email      String                @db.VarChar(255)
+  doc_no     String                @db.VarChar(120)
+  event_id   Int?
+  created_at DateTime              @db.Timestamp(6)
+  events     events?               @relation(fields: [event_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  payments   payments[]
+}
+
+model payments {
+  id             Int           @id @default(autoincrement())
+  participant_id Int?
+  event_id       Int
+  amount         Decimal       @db.Decimal(12, 2)
+  coupon_id      Int?
+  package_id     Int?
+  url            String?       @db.VarChar(2048)
+  message        String?
+  type           String?       @db.VarChar(255)
+  transaction_id String?       @db.VarChar(255)
+  status         String?       @db.VarChar(255)
+  created_at     DateTime      @db.Timestamp(6)
+  modified_at    DateTime?     @db.Timestamp(6)
+  coupons        coupons?      @relation(fields: [coupon_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  events         events        @relation(fields: [event_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  packages       packages?     @relation(fields: [package_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  participants   participants? @relation(fields: [participant_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+model speakers {
+  id             Int              @id @default(autoincrement())
+  email          String           @db.VarChar(255)
+  name           String           @db.VarChar(50)
+  organization   String           @db.VarChar(255)
+  photo_url      String?          @db.VarChar(255)
+  biography      String?
+  created_at     DateTime         @db.Timestamp(6)
+  modified_at    DateTime?        @db.Timestamp(6)
+  coupons        coupons[]
+  event_speakers event_speakers[]
+}
+
+model event_speakers {
+  id         Int      @id @default(autoincrement())
+  speaker_id Int
+  event_id   Int
+  events     events   @relation(fields: [event_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  speakers   speakers @relation(fields: [speaker_id], references: [id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+enum participant_role_enum {
+  professional
+  student
+}

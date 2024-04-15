@@ -1,0 +1,49 @@
+version: "3.8"
+
+services:
+
+  db_pgs:
+    image: postgres:16beta2-alpine3.18
+    restart: always
+    env_file:
+      - path: .env
+    command: postgres -c shared_buffers=1024MB -c max_connections=200
+    ports:
+      - 5434:5432
+
+  db_pgs_test:
+    image: postgres:16beta2-alpine3.18
+    restart: always
+    env_file:
+      - path: .env.test
+    command: postgres -c shared_buffers=1024MB -c max_connections=200
+    ports:
+      - 5435:5432
+
+  db_redis:
+    image: bitnami/redis:latest
+    restart: always
+    ports:
+      - 6380:6379
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+      - REDIS_DISABLE_COMMANDS=FLUSHDB,FLUSHALL,CONFIG
+      - REDIS_AOF_ENABLED=no
+    command: /opt/bitnami/scripts/redis/run.sh --maxmemory 128mb
+  redisinsight:
+    image: redislabs/redisinsight:latest
+    ports:
+      - '8002:8001'
+    depends_on:
+      - db_redis
+    links:
+      - db_redis
+  # ubuntu:
+  #   volumes:
+  #     - .:/apps
+  #     - /apps/node_modules
+  #   working_dir: /apps
+  #   image: node:20.11.1-slim
+  #   tty: true
+  #   stdin_open: true
+  #   command: tail -f /dev/null

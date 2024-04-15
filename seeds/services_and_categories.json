@@ -1,0 +1,73 @@
+[
+    {
+        "category": "Plastik Cerrahi",
+        "services": [
+            "Estetik ameliyatlar",
+            "Yüz germe",
+            "Rinoplasti (burun estetiği)",
+            "Liposuction (yağ alma işlemi)",
+            "Meme büyütme/küçültme"
+        ]
+    },
+    {
+        "category": "Kulak Burun Boğaz (KBB)",
+        "services": [
+            "Kulak ameliyatları",
+            "Burun ameliyatları",
+            "Boğaz hastalıkları tedavisi",
+            "Horlama tedavisi"
+        ]
+    },
+    {
+        "category": "Göz Hastalıkları",
+        "services": [
+            "Katarakt ameliyatları",
+            "Lazer göz tedavisi",
+            "Retina cerrahisi",
+            "Glokom tedavisi"
+        ]
+    },
+    {
+        "category": "Kalp ve Damar Cerrahisi",
+        "services": [
+            "Kalp ameliyatları",
+            "Damar tıkanıklığı tedavisi",
+            "Varis tedavisi",
+            "Kalp kapakçığı ameliyatları"
+        ]
+    },
+    {
+        "category": "Kadın Hastalıkları",
+        "services": [
+            "Jinekolojik muayene ve tedavi",
+            "Doğum kontrol yöntemleri",
+            "Laparoskopik cerrahi"
+        ]
+    },
+    {
+        "category": "Ortopedi",
+        "services": [
+            "Diz ve eklem ameliyatları",
+            "Omuz ameliyatları",
+            "Bel fıtığı tedavisi",
+            "Kemik kırıkları tedavisi"
+        ]
+    },
+    {
+        "category": "Diş Hekimliği",
+        "services": [
+            "Diş çekimi",
+            "Dolgu ve kaplama işlemleri",
+            "Kanal tedavisi",
+            "Diş estetiği"
+        ]
+    },{
+        "category": "Psikiyatri",
+        "services": [
+            "Depresyon tedavisi",
+            "Anksiyete tedavisi",
+            "Obsesif-kompulsif bozukluk tedavisi",
+            "Travma sonrası stres bozukluğu tedavisi"
+        ]
+    }
+]

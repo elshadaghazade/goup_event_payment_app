@@ -1,0 +1,79 @@
+Enum participant_role_enum {
+  "professional"
+  "student"
+}
+
+Table speakers {
+  id int [pk, increment]
+  email varchar(255) [not null]
+  name varchar(50) [not null]
+  organization varchar(255) [not null]
+  photo_url varchar(255) [null]
+  biography text
+  created_at timestamp [not null]
+  modified_at timestamp
+}
+
+Table events {
+  id int [pk, increment] // primary key, auto increments
+  name varchar(255) [not null]
+  description text
+  location varchar(255) [not null]
+  start_date timestamp
+  end_date timestamp
+  created_at timestamp [not null]
+  modified_at timestamp
+}
+
+Table packages {
+  id int [pk, increment] // primary key, auto increments
+  event_id int [ref: > events.id]
+  type "participant_role_enum" [not null] // e.g., 'student', 'worker', 'businessperson'
+  price decimal(12, 2) [not null]
+  description text
+  created_at timestamp [not null]
+  modified_at timestamp
+}
+
+Table coupons {
+  id int [pk, increment] // primary key, auto increments
+  code varchar(255) [unique]
+  speaker_id int [ref: > speakers.id, not null]
+  discount_percent int
+  description text
+  valid_until timestamp [not null]
+  created_at timestamp [not null]
+  modified_at timestamp
+}
+
+Table participants {
+  id int [pk, increment]
+  role "participant_role_enum" [not null]
+  name varchar(50) [not null]
+  email varchar(255) [not null]
+  doc_no varchar(120) [not null]
+  event_id int [ref: > events.id]
+  created_at timestamp [not null]
+}
+
+Table payments {
+  id int [pk, increment] // primary key, auto increments
+  participant_id int [ref: > participants.id]
+  event_id int [ref: > events.id, not null]
+  amount decimal(12, 2) [not null]
+  coupon_id int [null, ref: > coupons.id]
+  package_id int [ref: > packages.id]
+  url varchar(2048) [null]
+  message text [null]
+  type varchar(255) [null]
+  transaction_id varchar(255) // ID returned by the payment API
+  status varchar(255) // e.g., 'paid', 'refunded'
+  created_at timestamp [not null]
+  modified_at timestamp
+}
+
+Table event_speakers {
+  id int [pk, increment, not null]
+  speaker_id int [ref: > speakers.id, not null]
+  event_id int [ref: > events.id, not null]
+}

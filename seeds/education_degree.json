@@ -1,0 +1,77 @@
+[
+    {
+        "education_type": "Undergraduate",
+        "title": "Bachelor of Science (B.S.)"
+        
+    },
+    {
+        "education_type": "Undergraduate",
+        "title": "Bachelor of Arts (B.A.)"
+        
+    },
+    {
+        "education_type": "Undergraduate",
+        "title": "Bachelor of Medicine, Bachelor of Surgery (M.B.B.S.)"
+        
+    },
+    {
+        "education_type": "Graduate",
+        "title": "Master of Science (M.S.)"
+        
+    },
+    {
+        "education_type": "Graduate",
+        "title": "Master of Arts (M.A.)"
+        
+    },
+    {
+        "education_type": "Graduate",
+        "title": "Master of Public Health (M.P.H.)"
+        
+    },
+    {
+        "education_type": "Graduate",
+        "title": "Master of Medical Science (M.M.Sc.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Medicine (M.D.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Osteopathic Medicine (D.O.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Philosophy (Ph.D.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Dental Surgery (D.D.S.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Pharmacy (Pharm.D.)"
+        
+    },
+    {
+        "education_type": "Postgraduate",
+        "title": "Doctor of Veterinary Medicine (D.V.M.)"
+        
+    },
+    {
+        "education_type": "Residency",
+        "title": "Clinical Training"
+        
+    },
+    {
+        "education_type": "Fellowship",
+        "title": "Specialized Training"
+        
+    }
+]

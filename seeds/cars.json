@@ -1,0 +1,7770 @@
+[
+    {
+        "marka": "ZEEKR",
+        "model": "001"
+    },
+    {
+        "marka": "ZEEKR",
+        "model": "007"
+    },
+    {
+        "marka": "ZEEKR",
+        "model": "009"
+    },
+    {
+        "marka": "Lynk &amp; Co",
+        "model": "01"
+    },
+    {
+        "marka": "Polestones",
+        "model": "01"
+    },
+    {
+        "marka": "Avatr",
+        "model": "011"
+    },
+    {
+        "marka": "Lynk &amp; Co",
+        "model": "03"
+    },
+    {
+        "marka": "Lynk &amp; Co",
+        "model": "05"
+    },
+    {
+        "marka": "Lynk &amp; Co",
+        "model": "08"
+    },
+    {
+        "marka": "Lynk &amp; Co",
+        "model": "09"
+    },
+    {
+        "marka": "BMW",
+        "model": "1-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "116"
+    },
+    {
+        "marka": "BMW",
+        "model": "120"
+    },
+    {
+        "marka": "Audi",
+        "model": "100"
+    },
+    {
+        "marka": "DAF",
+        "model": "105 XF"
+    },
+    {
+        "marka": "Dnepr",
+        "model": "11"
+    },
+    {
+        "marka": "Renault",
+        "model": "11"
+    },
+    {
+        "marka": "Avatr",
+        "model": "11"
+    },
+    {
+        "marka": "Ducati",
+        "model": "1100 EVO"
+    },
+    {
+        "marka": "Ducati",
+        "model": "1199 Panigale S"
+    },
+    {
+        "marka": "Avatr",
+        "model": "12"
+    },
+    {
+        "marka": "Renault",
+        "model": "12 Toros"
+    },
+    {
+        "marka": "GAZ",
+        "model": "12 ЗИМ"
+    },
+    {
+        "marka": "Scania",
+        "model": "124 L"
+    },
+    {
+        "marka": "Abarth",
+        "model": "124 Spider"
+    },
+    {
+        "marka": "ZIL",
+        "model": "130"
+    },
+    {
+        "marka": "ZIL",
+        "model": "131"
+    },
+    {
+        "marka": "Saipa",
+        "model": "132"
+    },
+    {
+        "marka": "ZIL",
+        "model": "133"
+    },
+    {
+        "marka": "Saipa",
+        "model": "141"
+    },
+    {
+        "marka": "ATV",
+        "model": "150"
+    },
+    {
+        "marka": "Mondial",
+        "model": "150 MASH"
+    },
+    {
+        "marka": "Alfa Romeo",
+        "model": "156"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "170 V"
+    },
+    {
+        "marka": "Renault",
+        "model": "19"
+    },
+    {
+        "marka": "MAN",
+        "model": "19.414"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "190"
+    },
+    {
+        "marka": "MAN",
+        "model": "19463"
+    },
+    {
+        "marka": "Mazda",
+        "model": "2"
+    },
+    {
+        "marka": "Polestar",
+        "model": "2"
+    },
+    {
+        "marka": "BMW",
+        "model": "2-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "220"
+    },
+    {
+        "marka": "BMW",
+        "model": "230"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "200"
+    },
+    {
+        "marka": "Rover",
+        "model": "200"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "2008"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "e-2008"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "206"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "207"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "208"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2101"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "21011"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "21013"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2102"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2103"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2104"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "21045"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2105"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2106"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2107"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2108"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2109"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "21099"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2110"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "21103"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2111"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2112"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2113"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2114"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "2115"
+    },
+    {
+        "marka": "IJ",
+        "model": "2126 Oda"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "2140"
+    },
+    {
+        "marka": "RAF",
+        "model": "2203"
+    },
+    {
+        "marka": "RAF",
+        "model": "22031"
+    },
+    {
+        "marka": "GAZ",
+        "model": "221717"
+    },
+    {
+        "marka": "GAZ",
+        "model": "231073"
+    },
+    {
+        "marka": "GAZ",
+        "model": "24"
+    },
+    {
+        "marka": "GAZ",
+        "model": "24-02"
+    },
+    {
+        "marka": "GAZ",
+        "model": "24-10"
+    },
+    {
+        "marka": "Megelli",
+        "model": "250S"
+    },
+    {
+        "marka": "Skyline",
+        "model": "250cc"
+    },
+    {
+        "marka": "KrAZ",
+        "model": "255"
+    },
+    {
+        "marka": "Ikarus",
+        "model": "256"
+    },
+    {
+        "marka": "GAZ",
+        "model": "2705"
+    },
+    {
+        "marka": "GAZ",
+        "model": "2705-757"
+    },
+    {
+        "marka": "GAZ",
+        "model": "2705-764"
+    },
+    {
+        "marka": "GAZ",
+        "model": "2705-777"
+    },
+    {
+        "marka": "GAZ",
+        "model": "27057"
+    },
+    {
+        "marka": "IJ",
+        "model": "2715"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "2715"
+    },
+    {
+        "marka": "IJ",
+        "model": "2717"
+    },
+    {
+        "marka": "GAZ",
+        "model": "27527-745"
+    },
+    {
+        "marka": "GAZ",
+        "model": "2757"
+    },
+    {
+        "marka": "GAZ",
+        "model": "27903"
+    },
+    {
+        "marka": "MG",
+        "model": "3"
+    },
+    {
+        "marka": "Mazda",
+        "model": "3"
+    },
+    {
+        "marka": "BMW",
+        "model": "3-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "316"
+    },
+    {
+        "marka": "BMW",
+        "model": "318"
+    },
+    {
+        "marka": "BMW",
+        "model": "320"
+    },
+    {
+        "marka": "BMW",
+        "model": "320e"
+    },
+    {
+        "marka": "BMW",
+        "model": "323"
+    },
+    {
+        "marka": "BMW",
+        "model": "325"
+    },
+    {
+        "marka": "BMW",
+        "model": "328"
+    },
+    {
+        "marka": "BMW",
+        "model": "330"
+    },
+    {
+        "marka": "BMW",
+        "model": "330 GT"
+    },
+    {
+        "marka": "BMW",
+        "model": "330e"
+    },
+    {
+        "marka": "BMW",
+        "model": "335"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "300"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "300"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "3008"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "300C"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "300M"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "301"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "306"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "307"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "308"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "308"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "308 SW"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3102"
+    },
+    {
+        "marka": "GAZ",
+        "model": "31029"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3110"
+    },
+    {
+        "marka": "GAZ",
+        "model": "31105"
+    },
+    {
+        "marka": "UAZ",
+        "model": "3162"
+    },
+    {
+        "marka": "Lifan",
+        "model": "320"
+    },
+    {
+        "marka": "PAZ",
+        "model": "3204"
+    },
+    {
+        "marka": "PAZ",
+        "model": "32054"
+    },
+    {
+        "marka": "GAZ",
+        "model": "32212"
+    },
+    {
+        "marka": "GAZ",
+        "model": "322173"
+    },
+    {
+        "marka": "HOWO",
+        "model": "3241V"
+    },
+    {
+        "marka": "KAvZ",
+        "model": "3270"
+    },
+    {
+        "marka": "Lifan",
+        "model": "330"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3302-288"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3302-744"
+    },
+    {
+        "marka": "GAZ",
+        "model": "330200"
+    },
+    {
+        "marka": "GAZ",
+        "model": "330202-740"
+    },
+    {
+        "marka": "GAZ",
+        "model": "33021"
+    },
+    {
+        "marka": "GAZ",
+        "model": "33023-744"
+    },
+    {
+        "marka": "GAZ",
+        "model": "330232-744"
+    },
+    {
+        "marka": "GAZ",
+        "model": "33027"
+    },
+    {
+        "marka": "GAZ",
+        "model": "33027-745"
+    },
+    {
+        "marka": "UAZ",
+        "model": "3303"
+    },
+    {
+        "marka": "UAZ",
+        "model": "33036"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3307"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3308"
+    },
+    {
+        "marka": "GAZ",
+        "model": "3309-352"
+    },
+    {
+        "marka": "Jawa",
+        "model": "350"
+    },
+    {
+        "marka": "MG",
+        "model": "350"
+    },
+    {
+        "marka": "MAZ",
+        "model": "3577"
+    },
+    {
+        "marka": "Iveco",
+        "model": "35C15"
+    },
+    {
+        "marka": "Iveco",
+        "model": "35S10"
+    },
+    {
+        "marka": "HOWO",
+        "model": "371"
+    },
+    {
+        "marka": "KTM",
+        "model": "390 Duke"
+    },
+    {
+        "marka": "UAZ",
+        "model": "39094"
+    },
+    {
+        "marka": "UAZ",
+        "model": "390945"
+    },
+    {
+        "marka": "MG",
+        "model": "4 EV"
+    },
+    {
+        "marka": "BMW",
+        "model": "4-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "420"
+    },
+    {
+        "marka": "BMW",
+        "model": "428"
+    },
+    {
+        "marka": "BMW",
+        "model": "430"
+    },
+    {
+        "marka": "BMW",
+        "model": "435"
+    },
+    {
+        "marka": "BMW",
+        "model": "M440i"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "4008"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "401"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "403"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "405"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "406"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "407"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "407"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "408"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "412"
+    },
+    {
+        "marka": "Moskvich",
+        "model": "427"
+    },
+    {
+        "marka": "KamAz",
+        "model": "4308"
+    },
+    {
+        "marka": "KamAz",
+        "model": "43101"
+    },
+    {
+        "marka": "KamAz",
+        "model": "43118"
+    },
+    {
+        "marka": "ZIL",
+        "model": "431410"
+    },
+    {
+        "marka": "ZIL",
+        "model": "431412"
+    },
+    {
+        "marka": "Ural",
+        "model": "4320"
+    },
+    {
+        "marka": "Volvo",
+        "model": "440"
+    },
+    {
+        "marka": "KamAz",
+        "model": "44108"
+    },
+    {
+        "marka": "UAZ",
+        "model": "452"
+    },
+    {
+        "marka": "UAZ",
+        "model": "2206"
+    },
+    {
+        "marka": "UAZ",
+        "model": "390995"
+    },
+    {
+        "marka": "UAZ",
+        "model": "39625"
+    },
+    {
+        "marka": "UAZ",
+        "model": "452"
+    },
+    {
+        "marka": "Ferrari",
+        "model": "458 Italia"
+    },
+    {
+        "marka": "Volvo",
+        "model": "460"
+    },
+    {
+        "marka": "UAZ",
+        "model": "469"
+    },
+    {
+        "marka": "UAZ",
+        "model": "31512"
+    },
+    {
+        "marka": "UAZ",
+        "model": "31514"
+    },
+    {
+        "marka": "UAZ",
+        "model": "31519"
+    },
+    {
+        "marka": "UAZ",
+        "model": "469"
+    },
+    {
+        "marka": "Nama",
+        "model": "48-2"
+    },
+    {
+        "marka": "Volvo",
+        "model": "480"
+    },
+    {
+        "marka": "IJ",
+        "model": "49"
+    },
+    {
+        "marka": "Toyota",
+        "model": "4Runner"
+    },
+    {
+        "marka": "MG",
+        "model": "5"
+    },
+    {
+        "marka": "Mazda",
+        "model": "5"
+    },
+    {
+        "marka": "BMW",
+        "model": "5-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "518"
+    },
+    {
+        "marka": "BMW",
+        "model": "520"
+    },
+    {
+        "marka": "BMW",
+        "model": "520e"
+    },
+    {
+        "marka": "BMW",
+        "model": "523"
+    },
+    {
+        "marka": "BMW",
+        "model": "525"
+    },
+    {
+        "marka": "BMW",
+        "model": "528"
+    },
+    {
+        "marka": "BMW",
+        "model": "530"
+    },
+    {
+        "marka": "BMW",
+        "model": "530e"
+    },
+    {
+        "marka": "BMW",
+        "model": "535"
+    },
+    {
+        "marka": "BMW",
+        "model": "535 GT"
+    },
+    {
+        "marka": "BMW",
+        "model": "540"
+    },
+    {
+        "marka": "BMW",
+        "model": "545"
+    },
+    {
+        "marka": "BMW",
+        "model": "550"
+    },
+    {
+        "marka": "Mondial",
+        "model": "50 Revival"
+    },
+    {
+        "marka": "Mondial",
+        "model": "50 ZNU"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "5008"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500C"
+    },
+    {
+        "marka": "Fiat",
+        "model": "500L"
+    },
+    {
+        "marka": "GAZ",
+        "model": "52"
+    },
+    {
+        "marka": "Lifan",
+        "model": "520"
+    },
+    {
+        "marka": "Neman",
+        "model": "5201-040"
+    },
+    {
+        "marka": "GAZ",
+        "model": "53"
+    },
+    {
+        "marka": "ZIL",
+        "model": "5301"
+    },
+    {
+        "marka": "KamAz",
+        "model": "5320"
+    },
+    {
+        "marka": "KamAz",
+        "model": "53202"
+    },
+    {
+        "marka": "KamAz",
+        "model": "53212"
+    },
+    {
+        "marka": "KamAz",
+        "model": "53215"
+    },
+    {
+        "marka": "KamAz",
+        "model": "53229"
+    },
+    {
+        "marka": "MAZ",
+        "model": "5334"
+    },
+    {
+        "marka": "MAZ",
+        "model": "5337"
+    },
+    {
+        "marka": "KamAz",
+        "model": "5410"
+    },
+    {
+        "marka": "KamAz",
+        "model": "54112"
+    },
+    {
+        "marka": "KamAz",
+        "model": "54115"
+    },
+    {
+        "marka": "MAZ",
+        "model": "54322"
+    },
+    {
+        "marka": "MG",
+        "model": "550"
+    },
+    {
+        "marka": "KamAz",
+        "model": "5511"
+    },
+    {
+        "marka": "KamAz",
+        "model": "55111"
+    },
+    {
+        "marka": "MAZ",
+        "model": "551605"
+    },
+    {
+        "marka": "MAZ",
+        "model": "5549"
+    },
+    {
+        "marka": "Abarth",
+        "model": "595"
+    },
+    {
+        "marka": "Mazda",
+        "model": "6"
+    },
+    {
+        "marka": "MG",
+        "model": "6"
+    },
+    {
+        "marka": "BMW",
+        "model": "6-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "630"
+    },
+    {
+        "marka": "BMW",
+        "model": "640"
+    },
+    {
+        "marka": "BMW",
+        "model": "640 GT"
+    },
+    {
+        "marka": "BMW",
+        "model": "645"
+    },
+    {
+        "marka": "BMW",
+        "model": "650"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "607"
+    },
+    {
+        "marka": "Lifan",
+        "model": "620"
+    },
+    {
+        "marka": "Mazda",
+        "model": "626"
+    },
+    {
+        "marka": "Lifan",
+        "model": "630"
+    },
+    {
+        "marka": "MAZ",
+        "model": "642208"
+    },
+    {
+        "marka": "MAZ",
+        "model": "64229"
+    },
+    {
+        "marka": "MAZ",
+        "model": "650108"
+    },
+    {
+        "marka": "KrAZ",
+        "model": "65053"
+    },
+    {
+        "marka": "KamAz",
+        "model": "65115"
+    },
+    {
+        "marka": "KamAz",
+        "model": "65117"
+    },
+    {
+        "marka": "KamAz",
+        "model": "6520"
+    },
+    {
+        "marka": "GAZ",
+        "model": "66"
+    },
+    {
+        "marka": "Yutong",
+        "model": "6831"
+    },
+    {
+        "marka": "GAZ",
+        "model": "69"
+    },
+    {
+        "marka": "Seres",
+        "model": "7"
+    },
+    {
+        "marka": "BMW",
+        "model": "7-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "725"
+    },
+    {
+        "marka": "BMW",
+        "model": "728"
+    },
+    {
+        "marka": "BMW",
+        "model": "730"
+    },
+    {
+        "marka": "BMW",
+        "model": "735"
+    },
+    {
+        "marka": "BMW",
+        "model": "740"
+    },
+    {
+        "marka": "BMW",
+        "model": "740Le"
+    },
+    {
+        "marka": "BMW",
+        "model": "745"
+    },
+    {
+        "marka": "BMW",
+        "model": "745Le"
+    },
+    {
+        "marka": "BMW",
+        "model": "750"
+    },
+    {
+        "marka": "BMW",
+        "model": "750e xDrive"
+    },
+    {
+        "marka": "BMW",
+        "model": "760"
+    },
+    {
+        "marka": "Lifan",
+        "model": "720"
+    },
+    {
+        "marka": "Rover",
+        "model": "75"
+    },
+    {
+        "marka": "DAF",
+        "model": "75 CF"
+    },
+    {
+        "marka": "Volvo",
+        "model": "760"
+    },
+    {
+        "marka": "BMW",
+        "model": "8-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "840"
+    },
+    {
+        "marka": "Audi",
+        "model": "80"
+    },
+    {
+        "marka": "Rover",
+        "model": "800"
+    },
+    {
+        "marka": "Ducati",
+        "model": "848 EVO"
+    },
+    {
+        "marka": "DAF",
+        "model": "85 CF"
+    },
+    {
+        "marka": "Volvo",
+        "model": "850"
+    },
+    {
+        "marka": "Haima",
+        "model": "8S"
+    },
+    {
+        "marka": "Saab",
+        "model": "9-3"
+    },
+    {
+        "marka": "Porsche",
+        "model": "911"
+    },
+    {
+        "marka": "Porsche",
+        "model": "911 Carrera"
+    },
+    {
+        "marka": "Porsche",
+        "model": "911 Carrera 4S"
+    },
+    {
+        "marka": "Volvo",
+        "model": "940"
+    },
+    {
+        "marka": "Vespa",
+        "model": "946"
+    },
+    {
+        "marka": "DAF",
+        "model": "95"
+    },
+    {
+        "marka": "DAF",
+        "model": "95 XF"
+    },
+    {
+        "marka": "Volvo",
+        "model": "960"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "965"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "968M"
+    },
+    {
+        "marka": "LuAz",
+        "model": "969"
+    },
+    {
+        "marka": "LuAz",
+        "model": "969M"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 140"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 150"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 160"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 170"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 180"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 190"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "A 250 e"
+    },
+    {
+        "marka": "Baic",
+        "model": "A1"
+    },
+    {
+        "marka": "Audi",
+        "model": "A1"
+    },
+    {
+        "marka": "GAZ",
+        "model": "A21R22-03"
+    },
+    {
+        "marka": "Audi",
+        "model": "A3"
+    },
+    {
+        "marka": "Audi",
+        "model": "A4"
+    },
+    {
+        "marka": "Audi",
+        "model": "A4 allroad"
+    },
+    {
+        "marka": "Audi",
+        "model": "A5"
+    },
+    {
+        "marka": "Audi",
+        "model": "A5"
+    },
+    {
+        "marka": "Audi",
+        "model": "A5 Sportback"
+    },
+    {
+        "marka": "Soueast",
+        "model": "A5"
+    },
+    {
+        "marka": "Audi",
+        "model": "A6"
+    },
+    {
+        "marka": "Audi",
+        "model": "A6 allroad"
+    },
+    {
+        "marka": "Audi",
+        "model": "A7"
+    },
+    {
+        "marka": "Audi",
+        "model": "A7"
+    },
+    {
+        "marka": "Audi",
+        "model": "A7 Sportback"
+    },
+    {
+        "marka": "HOWO",
+        "model": "A7"
+    },
+    {
+        "marka": "Audi",
+        "model": "A8"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG GT"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG GT 53"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG GT 63 S"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG GT S"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "ASX"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "ATS"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "ATV"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "CFORCE 1000 OVERLAND"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "CFORCE 520L"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "CFORCE-ATV-625"
+    },
+    {
+        "marka": "GMC",
+        "model": "Acadia"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Accent"
+    },
+    {
+        "marka": "Honda",
+        "model": "Accord"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Ace (Super Salon)"
+    },
+    {
+        "marka": "Ssang Yong",
+        "model": "Actyon"
+    },
+    {
+        "marka": "Ssang Yong",
+        "model": "Actyon Sports"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Aeolus"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Aeolus H30"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Aeolus Huge"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Aeolus S30"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Aeolus Shine Max"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Aerio"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Aerotown"
+    },
+    {
+        "marka": "GAC",
+        "model": "Aion"
+    },
+    {
+        "marka": "GAC",
+        "model": "Aion S"
+    },
+    {
+        "marka": "GAC",
+        "model": "Aion S Max"
+    },
+    {
+        "marka": "GAC",
+        "model": "Aion Y Plus"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Airtrek"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Albea"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Almera"
+    },
+    {
+        "marka": "Changan",
+        "model": "Alsvin V3"
+    },
+    {
+        "marka": "Changan",
+        "model": "Alsvin V5"
+    },
+    {
+        "marka": "Changan",
+        "model": "Alsvin V7"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Altima"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Amarok"
+    },
+    {
+        "marka": "Chery",
+        "model": "Amulet (A15)"
+    },
+    {
+        "marka": "Opel",
+        "model": "Antara"
+    },
+    {
+        "marka": "Renault",
+        "model": "Arkana"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Armada"
+    },
+    {
+        "marka": "Chery",
+        "model": "Arrizo 5"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Arteon"
+    },
+    {
+        "marka": "Saturn",
+        "model": "Astra"
+    },
+    {
+        "marka": "Opel",
+        "model": "Astra"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Astra HD8"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Atlas"
+    },
+    {
+        "marka": "Geely",
+        "model": "Atlas Pro"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Atos"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Attrage"
+    },
+    {
+        "marka": "Foton",
+        "model": "Aumark TX"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Aurion"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Auris"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Avalon"
+    },
+    {
+        "marka": "Kia",
+        "model": "Avella"
+    },
+    {
+        "marka": "Bajaj",
+        "model": "Avenger 220"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Avensis"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Aveo"
+    },
+    {
+        "marka": "Lincoln",
+        "model": "Aviator"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "Axiom"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Azera"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "B-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "B 170"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "B 180"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "B 200"
+    },
+    {
+        "marka": "BMW Alpina",
+        "model": "B5"
+    },
+    {
+        "marka": "Bestune",
+        "model": "B70S"
+    },
+    {
+        "marka": "Subaru",
+        "model": "B9 Tribeca"
+    },
+    {
+        "marka": "Kayo",
+        "model": "BASIC YX125"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "BH117"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "BLS"
+    },
+    {
+        "marka": "BMW",
+        "model": "BMW Moto"
+    },
+    {
+        "marka": "BMW",
+        "model": "K 1200 S"
+    },
+    {
+        "marka": "BMW",
+        "model": "R 1200 GS Adventure"
+    },
+    {
+        "marka": "BMW",
+        "model": "R Nine T"
+    },
+    {
+        "marka": "Subaru",
+        "model": "BRZ"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "BS090"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Baleno"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Beetle"
+    },
+    {
+        "marka": "Changan",
+        "model": "Benni"
+    },
+    {
+        "marka": "Changan",
+        "model": "Benni E-Star"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Bentayga"
+    },
+    {
+        "marka": "Citroen",
+        "model": "Berlingo"
+    },
+    {
+        "marka": "Kia",
+        "model": "Besta"
+    },
+    {
+        "marka": "FAW",
+        "model": "Bestune B30"
+    },
+    {
+        "marka": "FAW",
+        "model": "Besturn X80"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Bipper"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Biznes 330273"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Blazer"
+    },
+    {
+        "marka": "RKS",
+        "model": "Blazer 50"
+    },
+    {
+        "marka": "Kuba",
+        "model": "Blueberry"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Bluebird"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "Bogdan"
+    },
+    {
+        "marka": "Kia",
+        "model": "Bongo"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Bora"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Boxer"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Bravo"
+    },
+    {
+        "marka": "Ford",
+        "model": "Bronco"
+    },
+    {
+        "marka": "Ford",
+        "model": "Bronco Sport"
+    },
+    {
+        "marka": "DFSK",
+        "model": "C-32 S"
+    },
+    {
+        "marka": "DFSK",
+        "model": "C-35"
+    },
+    {
+        "marka": "DFSK",
+        "model": "C-37"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C-Elysee"
+    },
+    {
+        "marka": "Toyota",
+        "model": "C-HR"
+    },
+    {
+        "marka": "Ford",
+        "model": "C-MAX"
+    },
+    {
+        "marka": "Yadea",
+        "model": "C-line"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 180"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 220"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 230"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 240"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 270"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 280"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 300 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 32 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 350 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "C 43 AMG"
+    },
+    {
+        "marka": "Leapmotor",
+        "model": "C11"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C3"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C3 Picasso"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C4"
+    },
+    {
+        "marka": "GAZ",
+        "model": "C41R13"
+    },
+    {
+        "marka": "GAZ",
+        "model": "C45R02"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C5"
+    },
+    {
+        "marka": "Citroen",
+        "model": "C5 Aircross"
+    },
+    {
+        "marka": "FAW",
+        "model": "CA5013"
+    },
+    {
+        "marka": "Geely",
+        "model": "CK"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CL-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CL 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CL 550"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CL 63 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA 220"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA 250 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLA 45 S AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLE-Class"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLE 300 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLK-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLK 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLK 230"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLK 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 250 CDI"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 450 Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 53 4MATIC+"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 55 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 550"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "CLS 63 AMG"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CM250R-HY"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CM400R-18"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CM400R-F8"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CM400R-HY"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CMR-F8"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CMR-H8"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CMR-RZ"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CMR-SY"
+    },
+    {
+        "marka": "C.Moto",
+        "model": "CMR-YZ"
+    },
+    {
+        "marka": "Honda",
+        "model": "CR-V"
+    },
+    {
+        "marka": "Jianshe",
+        "model": "CRF"
+    },
+    {
+        "marka": "Jianshe",
+        "model": "CRF230"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 15"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 35"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 35 Plus"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 55 Plus"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 75"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 75 Plus"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 85"
+    },
+    {
+        "marka": "Changan",
+        "model": "CS 95"
+    },
+    {
+        "marka": "Lexus",
+        "model": "CT-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "CT 200h"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "CT5"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "CT6"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "CTS"
+    },
+    {
+        "marka": "Tufan",
+        "model": "CUB50 S"
+    },
+    {
+        "marka": "Changan",
+        "model": "CX 20"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-3"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-30"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-5"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-60"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-7"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-9"
+    },
+    {
+        "marka": "Mazda",
+        "model": "CX-90"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Caddy"
+    },
+    {
+        "marka": "Kia",
+        "model": "Cadenza"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Caliber"
+    },
+    {
+        "marka": "Opel",
+        "model": "Calibra"
+    },
+    {
+        "marka": "Ferrari",
+        "model": "California"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Camaro"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Camry"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Canter"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Captiva"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Caravelle"
+    },
+    {
+        "marka": "Kia",
+        "model": "Carens"
+    },
+    {
+        "marka": "Ford",
+        "model": "Cargo"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Carina"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Carisma"
+    },
+    {
+        "marka": "Kia",
+        "model": "Carnival"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne Coupe"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne E-Hybrid"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne E-hybrid Coupe"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne GTS"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne GTS Coupe"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne S"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne S E-Hybrid"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne S E-Hybrid Coupe"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne Turbo"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayenne Turbo S"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Cayman"
+    },
+    {
+        "marka": "Kia",
+        "model": "Ceed"
+    },
+    {
+        "marka": "Kia",
+        "model": "Cerato"
+    },
+    {
+        "marka": "Kia",
+        "model": "Cerato Koup"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Challenger"
+    },
+    {
+        "marka": "Indian Motorcycle",
+        "model": "Challenger"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Charger"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Chariot"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Cherokee"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Chorus"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Cinquecento"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Citan"
+    },
+    {
+        "marka": "Honda",
+        "model": "City"
+    },
+    {
+        "marka": "Tufan",
+        "model": "City 50"
+    },
+    {
+        "marka": "Wild West",
+        "model": "City Slicker"
+    },
+    {
+        "marka": "Honda",
+        "model": "Civic"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Civilian"
+    },
+    {
+        "marka": "Kia",
+        "model": "Clarus"
+    },
+    {
+        "marka": "Royal Enfield",
+        "model": "Classic 350"
+    },
+    {
+        "marka": "Renault",
+        "model": "Clio"
+    },
+    {
+        "marka": "Mini",
+        "model": "Clubman"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Cobalt"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Colorado"
+    },
+    {
+        "marka": "Opel",
+        "model": "Combo"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Commander"
+    },
+    {
+        "marka": "Can-Am",
+        "model": "Commander"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Commercial"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "0303"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "0403"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "1217"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "208 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "308 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "403"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "408 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "410 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "508"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "512 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "609 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "709 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "711 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "811 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "813"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "814 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1835"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1840"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1841"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1844"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1846"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 1848"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 2540"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 2544"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 2546"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 2635"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Actros 3235"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1017"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1217"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1218"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1222"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1223"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1224"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1228"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1229"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1323"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1523"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1528"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1529"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1823"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1824"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 1828"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 2528"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 811"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 814"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 815"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 816"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 817"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 818"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 822"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 917"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 918"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Atego 923"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 1824"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 1829"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 1833"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 1840"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 1843"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 2529"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 2533"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 2540"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 3028"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 3340"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Axor 4140"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Travego"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vario"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Compass"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "Concorde"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Continental"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Continental Flying Spur"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Continental GT"
+    },
+    {
+        "marka": "Geely",
+        "model": "Coolray"
+    },
+    {
+        "marka": "Mini",
+        "model": "Cooper"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla Cross"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Corolla Verso"
+    },
+    {
+        "marka": "Opel",
+        "model": "Corsa"
+    },
+    {
+        "marka": "Lincoln",
+        "model": "Corsair"
+    },
+    {
+        "marka": "Mini",
+        "model": "Countryman"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "County"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Coupe"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Coupe"
+    },
+    {
+        "marka": "Ford",
+        "model": "Courier"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Crafter"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Creta"
+    },
+    {
+        "marka": "Opel",
+        "model": "Crossland X"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Crown"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Cruze"
+    },
+    {
+        "marka": "Rolls-Royce",
+        "model": "Cullinan"
+    },
+    {
+        "marka": "Baic",
+        "model": "D20"
+    },
+    {
+        "marka": "Minsk",
+        "model": "D4 125"
+    },
+    {
+        "marka": "DFSK",
+        "model": "D51"
+    },
+    {
+        "marka": "Denza",
+        "model": "D9"
+    },
+    {
+        "marka": "Aston Martin",
+        "model": "DB9"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "DF 4438"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "DF25"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "DFL3310A13"
+    },
+    {
+        "marka": "Ural",
+        "model": "DNEPR MT"
+    },
+    {
+        "marka": "Citroen",
+        "model": "DS4"
+    },
+    {
+        "marka": "Citroen",
+        "model": "DS5"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Daily 30-8"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Daily 35C15VH"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Damas"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Damas"
+    },
+    {
+        "marka": "Haval",
+        "model": "Dargo"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Dart"
+    },
+    {
+        "marka": "Jetour",
+        "model": "Dashing"
+    },
+    {
+        "marka": "Changan",
+        "model": "Deepal"
+    },
+    {
+        "marka": "Changan",
+        "model": "Deepal S7"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "Defender"
+    },
+    {
+        "marka": "Daihatsu",
+        "model": "Delta Truck"
+    },
+    {
+        "marka": "BYD",
+        "model": "Destroyer 05"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "Discovery"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "Discovery Sport"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Doblo"
+    },
+    {
+        "marka": "Tofas",
+        "model": "Dogan"
+    },
+    {
+        "marka": "Renault",
+        "model": "Dokker"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Dokker"
+    },
+    {
+        "marka": "Karry",
+        "model": "Dolphin"
+    },
+    {
+        "marka": "Bajaj",
+        "model": "Dominar 250"
+    },
+    {
+        "marka": "Voyah",
+        "model": "Dream"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Ducato"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Durango"
+    },
+    {
+        "marka": "Renault",
+        "model": "Duster"
+    },
+    {
+        "marka": "Hongqi",
+        "model": "E-HS9"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "E-Pace"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "200 D"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "230 E"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 180"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 220"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 230"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 240"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 260"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 270"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 280"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 290"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 300 de"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 300 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 350 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 450 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 53 4MATIC+"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 55 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "E 550"
+    },
+    {
+        "marka": "DFSK",
+        "model": "E5"
+    },
+    {
+        "marka": "MG",
+        "model": "EHS"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "ELR"
+    },
+    {
+        "marka": "Yadea",
+        "model": "EM"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "EQ 220"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQA"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQA 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQA 260"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQC 400 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQE"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG EQE 53 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQE 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQE 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQE 350 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQE 350 4MATIC SUV"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "AMG EQS 53 4MATIC+"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 450 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 450 4MATIC SUV"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 450+"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 500 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 580 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQS 580 4MATIC SUV"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "EQS 680 4MATIC SUV"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQV"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "EQV 300"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES 200"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES 250"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES 300h"
+    },
+    {
+        "marka": "Lexus",
+        "model": "ES 350"
+    },
+    {
+        "marka": "Skywell",
+        "model": "ET5"
+    },
+    {
+        "marka": "Kia",
+        "model": "EV5"
+    },
+    {
+        "marka": "Kia",
+        "model": "EV6"
+    },
+    {
+        "marka": "Kia",
+        "model": "EV9"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "EX-series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "EX35"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "EX37"
+    },
+    {
+        "marka": "Changan",
+        "model": "Eado"
+    },
+    {
+        "marka": "Changan",
+        "model": "Eado DT"
+    },
+    {
+        "marka": "Changan",
+        "model": "Eado Plus"
+    },
+    {
+        "marka": "Chery",
+        "model": "Eastar (B11)"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Eclipse"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Eclipse Cross"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "Ecobus"
+    },
+    {
+        "marka": "Ford",
+        "model": "Ecosport"
+    },
+    {
+        "marka": "Ford",
+        "model": "Edge"
+    },
+    {
+        "marka": "Kuba",
+        "model": "Ege 50"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Egea"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Elantra"
+    },
+    {
+        "marka": "Moto Guzzi",
+        "model": "Eldorado"
+    },
+    {
+        "marka": "Lotus",
+        "model": "Eletre"
+    },
+    {
+        "marka": "Geely",
+        "model": "Emgrand"
+    },
+    {
+        "marka": "Geely",
+        "model": "Emgrand EC7"
+    },
+    {
+        "marka": "Buick",
+        "model": "Enclave"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Enduro"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Epica"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Equinox"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Equus"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "Escalade"
+    },
+    {
+        "marka": "Ford",
+        "model": "Escape"
+    },
+    {
+        "marka": "Ford",
+        "model": "Escort"
+    },
+    {
+        "marka": "Renault",
+        "model": "Espace"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Espero"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Eurocargo"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Eurotrakker Cursor"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Evanda"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Excel"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Exeo"
+    },
+    {
+        "marka": "Ford",
+        "model": "Expedition"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Expert"
+    },
+    {
+        "marka": "Ford",
+        "model": "Explorer"
+    },
+    {
+        "marka": "MAN",
+        "model": "F 2000"
+    },
+    {
+        "marka": "Ford",
+        "model": "F-150"
+    },
+    {
+        "marka": "Ford",
+        "model": "F-450"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "F-Pace"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "F-Pace R"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "F-Type"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "F-Type R"
+    },
+    {
+        "marka": "Shacman",
+        "model": "F2000"
+    },
+    {
+        "marka": "BYD",
+        "model": "F3"
+    },
+    {
+        "marka": "MV Agusta",
+        "model": "F3 800"
+    },
+    {
+        "marka": "Shacman",
+        "model": "F3000"
+    },
+    {
+        "marka": "Changan",
+        "model": "F70 (Hunter)"
+    },
+    {
+        "marka": "Volvo",
+        "model": "FH 12"
+    },
+    {
+        "marka": "Volvo",
+        "model": "FH 13"
+    },
+    {
+        "marka": "Volvo",
+        "model": "FH 460"
+    },
+    {
+        "marka": "Volvo",
+        "model": "FH 500"
+    },
+    {
+        "marka": "Toyota",
+        "model": "FJ Cruiser"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "FLHR Road King"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "FLSTC Heritage Softail Classic"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "FLTRX Road Glide"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "FSR 90 L"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "FVR 34 Q"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "FX-series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "FX35"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "FX37"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "FX45"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "FX50"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "FXDB Dyna StreetBob"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "FXDWG Dyna Wide Glide"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "FZ-S FI Deluxe"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Fabia"
+    },
+    {
+        "marka": "BMC",
+        "model": "Fatih"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Fazer 150"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Fazer 600N"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Felicia"
+    },
+    {
+        "marka": "Ford",
+        "model": "Fiesta"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Fiorino"
+    },
+    {
+        "marka": "Honda",
+        "model": "Fit"
+    },
+    {
+        "marka": "GWM",
+        "model": "Florid"
+    },
+    {
+        "marka": "Renault",
+        "model": "Fluence"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Flying Spur"
+    },
+    {
+        "marka": "Ford",
+        "model": "Focus"
+    },
+    {
+        "marka": "Chery",
+        "model": "Fora (A21)"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Forester"
+    },
+    {
+        "marka": "Foton",
+        "model": "Forland"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Fortuner"
+    },
+    {
+        "marka": "Smart",
+        "model": "Fortwo"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "Forward"
+    },
+    {
+        "marka": "Voyah",
+        "model": "Free"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "Freelander"
+    },
+    {
+        "marka": "Forthing",
+        "model": "Friday EV"
+    },
+    {
+        "marka": "BYD",
+        "model": "Frigate 07"
+    },
+    {
+        "marka": "Opel",
+        "model": "Frontera"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Fronx"
+    },
+    {
+        "marka": "Chery",
+        "model": "Fulwin 2"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Funcargo"
+    },
+    {
+        "marka": "Ford",
+        "model": "Fusion"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Fuso Canter"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G-series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G20"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G25"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G35"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G37"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "G37S"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 55 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 63 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "G 65 AMG"
+    },
+    {
+        "marka": "Genesis",
+        "model": "G80"
+    },
+    {
+        "marka": "XPeng",
+        "model": "G9"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 420"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 450"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 550"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL 63 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GL Brabus Widestar"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLA-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLA 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLA 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLB-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLB 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLB 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 200 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 200 4MATIC+ Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 220 d 4MATIC Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 250 Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 300 Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 300 e 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 300 e 4MATIC+ Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 43 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLC 63S AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 350 Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 400 Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 43 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 43 AMG Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 450"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 450 4MATIC+ Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 450 AMG Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 53 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 53 AMG Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLE 63 AMG S"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLK-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLK 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLK 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLK 350"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "GLS 600 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 450"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 580"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "GLS 63 AMG"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS 250"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS 300"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS 350"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS 450h"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GS 460"
+    },
+    {
+        "marka": "MG",
+        "model": "GT"
+    },
+    {
+        "marka": "Toyota",
+        "model": "GT 86"
+    },
+    {
+        "marka": "Nissan",
+        "model": "GT-R"
+    },
+    {
+        "marka": "Vespa",
+        "model": "GTS 300"
+    },
+    {
+        "marka": "Genesis",
+        "model": "GV70"
+    },
+    {
+        "marka": "Genesis",
+        "model": "GV80"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GX-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GX 460"
+    },
+    {
+        "marka": "Lexus",
+        "model": "GX 470"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Galant"
+    },
+    {
+        "marka": "Ford",
+        "model": "Galaxy"
+    },
+    {
+        "marka": "Geely",
+        "model": "Galaxy L7"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Galloper"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Gazon C41R33"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Genesis"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Genesis Coupe"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Gentra"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Getz"
+    },
+    {
+        "marka": "Maserati",
+        "model": "Ghibli"
+    },
+    {
+        "marka": "Rolls-Royce",
+        "model": "Ghost"
+    },
+    {
+        "marka": "Alfa Romeo",
+        "model": "Giulia"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Gladiator"
+    },
+    {
+        "marka": "DFSK",
+        "model": "Glory 330"
+    },
+    {
+        "marka": "DFSK",
+        "model": "Glory 330 S"
+    },
+    {
+        "marka": "DFSK",
+        "model": "Glory 330 S Cargo"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf GTI"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Golf Plus"
+    },
+    {
+        "marka": "Maserati",
+        "model": "GranTurismo"
+    },
+    {
+        "marka": "Maserati",
+        "model": "GranTurismo S"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Grand Cherokee"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Grand Santa Fe"
+    },
+    {
+        "marka": "Renault",
+        "model": "Grand Scenic"
+    },
+    {
+        "marka": "ZX Auto",
+        "model": "Grand Tiger"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Grand Vitara"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Grandeur"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Grandis"
+    },
+    {
+        "marka": "Opel",
+        "model": "Grandland X"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Granta"
+    },
+    {
+        "marka": "Maserati",
+        "model": "Grecale"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Grizzly 700"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "H 100"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "H-1"
+    },
+    {
+        "marka": "Haval",
+        "model": "H2"
+    },
+    {
+        "marka": "Hummer",
+        "model": "H2"
+    },
+    {
+        "marka": "Jinbei",
+        "model": "H2S"
+    },
+    {
+        "marka": "Hummer",
+        "model": "H3"
+    },
+    {
+        "marka": "Hongqi",
+        "model": "H5"
+    },
+    {
+        "marka": "Haval",
+        "model": "H6"
+    },
+    {
+        "marka": "Haval",
+        "model": "H6 GT"
+    },
+    {
+        "marka": "Haval",
+        "model": "H8"
+    },
+    {
+        "marka": "Haval",
+        "model": "H9"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "HD-45"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "HD-65"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "HD-72"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "HD-78"
+    },
+    {
+        "marka": "JAC",
+        "model": "HFC 1040K"
+    },
+    {
+        "marka": "JAC",
+        "model": "HFC1061K5P"
+    },
+    {
+        "marka": "JAC",
+        "model": "HFC3072"
+    },
+    {
+        "marka": "Haojue",
+        "model": "HJ110-2C"
+    },
+    {
+        "marka": "Haojue",
+        "model": "HJ110-2D"
+    },
+    {
+        "marka": "Haojue",
+        "model": "HJ110-6"
+    },
+    {
+        "marka": "Haojue",
+        "model": "HJ125-20"
+    },
+    {
+        "marka": "Haojue",
+        "model": "HJ150-9A"
+    },
+    {
+        "marka": "Honda",
+        "model": "HR-V"
+    },
+    {
+        "marka": "Lexus",
+        "model": "HS-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "HS 250h"
+    },
+    {
+        "marka": "Hongqi",
+        "model": "HS5"
+    },
+    {
+        "marka": "BYD",
+        "model": "Han"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Harrier"
+    },
+    {
+        "marka": "Toyota",
+        "model": "HiAce"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Highlander"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Hilux"
+    },
+    {
+        "marka": "Honda",
+        "model": "Honda Moto"
+    },
+    {
+        "marka": "Honda",
+        "model": "CB300R"
+    },
+    {
+        "marka": "Honda",
+        "model": "CB650R"
+    },
+    {
+        "marka": "Honda",
+        "model": "CBR 250"
+    },
+    {
+        "marka": "Honda",
+        "model": "Dio AF"
+    },
+    {
+        "marka": "Honda",
+        "model": "H’ness CB350 DLX Pro"
+    },
+    {
+        "marka": "Honda",
+        "model": "VTX 1300 R"
+    },
+    {
+        "marka": "Wuling",
+        "model": "Hongguang Mini EV"
+    },
+    {
+        "marka": "FAW",
+        "model": "Hongqi HQ3"
+    },
+    {
+        "marka": "Changan",
+        "model": "Honor"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover H3"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover H5"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover H6"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover M2"
+    },
+    {
+        "marka": "GWM",
+        "model": "Hover M4"
+    },
+    {
+        "marka": "UAZ",
+        "model": "Hunter"
+    },
+    {
+        "marka": "Royal Enfield",
+        "model": "Hunter 350"
+    },
+    {
+        "marka": "Lamborghini",
+        "model": "Huracan"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "I-Pace"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "I-Series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "I30"
+    },
+    {
+        "marka": "Geely",
+        "model": "ICON"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.3"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.4"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.6"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "ID.7"
+    },
+    {
+        "marka": "IJ",
+        "model": "IJ Moto"
+    },
+    {
+        "marka": "IJ",
+        "model": "57"
+    },
+    {
+        "marka": "IJ",
+        "model": "Planeta 5"
+    },
+    {
+        "marka": "IJ",
+        "model": "Upiter 4"
+    },
+    {
+        "marka": "IJ",
+        "model": "Upiter 5"
+    },
+    {
+        "marka": "Acura",
+        "model": "ILX"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "IONIQ"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "IONIQ 5"
+    },
+    {
+        "marka": "Toyota",
+        "model": "IQ"
+    },
+    {
+        "marka": "Lexus",
+        "model": "IS-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "IS 200"
+    },
+    {
+        "marka": "Lexus",
+        "model": "IS 250"
+    },
+    {
+        "marka": "Lexus",
+        "model": "IS 300"
+    },
+    {
+        "marka": "Lexus",
+        "model": "IS 350"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Ibiza"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Ignis"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Impreza"
+    },
+    {
+        "marka": "Zongshen",
+        "model": "Infinity"
+    },
+    {
+        "marka": "Honda",
+        "model": "Insight"
+    },
+    {
+        "marka": "Opel",
+        "model": "Insignia"
+    },
+    {
+        "marka": "Tufan",
+        "model": "Istiqlal"
+    },
+    {
+        "marka": "FAW",
+        "model": "J6P dumper 6x4"
+    },
+    {
+        "marka": "FAW",
+        "model": "J6P dumper 8x4"
+    },
+    {
+        "marka": "JAC",
+        "model": "J7"
+    },
+    {
+        "marka": "JAC",
+        "model": "JS4"
+    },
+    {
+        "marka": "JAC",
+        "model": "JS8"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "JX-series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "JX35"
+    },
+    {
+        "marka": "JMC",
+        "model": "JX5066"
+    },
+    {
+        "marka": "Gonow",
+        "model": "Jetstar GA 6380"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Jetta"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Jimny"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Jog Artistic"
+    },
+    {
+        "marka": "Haval",
+        "model": "Jolion"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Journey"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Juke"
+    },
+    {
+        "marka": "Citroen",
+        "model": "Jumpy"
+    },
+    {
+        "marka": "Renault",
+        "model": "K 480 P8x4"
+    },
+    {
+        "marka": "Dnepr",
+        "model": "K-750"
+    },
+    {
+        "marka": "Kia",
+        "model": "K2700"
+    },
+    {
+        "marka": "Kia",
+        "model": "K3"
+    },
+    {
+        "marka": "Kia",
+        "model": "K4"
+    },
+    {
+        "marka": "Kia",
+        "model": "K5"
+    },
+    {
+        "marka": "Kia",
+        "model": "K7"
+    },
+    {
+        "marka": "Kia",
+        "model": "K8"
+    },
+    {
+        "marka": "Kia",
+        "model": "K9"
+    },
+    {
+        "marka": "Haojue",
+        "model": "KA150"
+    },
+    {
+        "marka": "Ford",
+        "model": "Ka"
+    },
+    {
+        "marka": "Opel",
+        "model": "Kadett"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Kalina"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Kalos"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Kamiq"
+    },
+    {
+        "marka": "Renault",
+        "model": "Kangoo"
+    },
+    {
+        "marka": "Renault",
+        "model": "Kaptur"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Karoq"
+    },
+    {
+        "marka": "Tofas",
+        "model": "Kartal"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Khazar 406"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Kicks"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Kizashi"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Kodiaq"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Kona"
+    },
+    {
+        "marka": "Ssang Yong",
+        "model": "Korando"
+    },
+    {
+        "marka": "Ford",
+        "model": "Kuga"
+    },
+    {
+        "marka": "Ssang Yong",
+        "model": "Kyron"
+    },
+    {
+        "marka": "MAN",
+        "model": "L 2000"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "L200"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "L300"
+    },
+    {
+        "marka": "IM",
+        "model": "L7"
+    },
+    {
+        "marka": "Li Auto",
+        "model": "L7"
+    },
+    {
+        "marka": "Li Auto",
+        "model": "L8"
+    },
+    {
+        "marka": "Li Auto",
+        "model": "L9"
+    },
+    {
+        "marka": "JAC",
+        "model": "LD1A2"
+    },
+    {
+        "marka": "JAC",
+        "model": "LD3A3"
+    },
+    {
+        "marka": "JAC",
+        "model": "LE79Z"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS 350"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS 460"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS 500"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LS 600h"
+    },
+    {
+        "marka": "IM",
+        "model": "LS6"
+    },
+    {
+        "marka": "IM",
+        "model": "LS7"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "LT"
+    },
+    {
+        "marka": "Khazar",
+        "model": "LX"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX 450"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX 470"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX 500d"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX 570"
+    },
+    {
+        "marka": "Lexus",
+        "model": "LX 600"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Labo"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Lacetti"
+    },
+    {
+        "marka": "Renault",
+        "model": "Laguna"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Lancer"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Land Cruiser"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "Lanos"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Lanos"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Lanos"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Largus"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Largus"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Largus Cross"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Leaf"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Legacy"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Leganza"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Leon"
+    },
+    {
+        "marka": "Maserati",
+        "model": "Levante"
+    },
+    {
+        "marka": "Maserati",
+        "model": "Levante S"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Liberty"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Linea"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Lodgy"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Logan"
+    },
+    {
+        "marka": "Renault",
+        "model": "Logan"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Lumina"
+    },
+    {
+        "marka": "Polad",
+        "model": "M 50"
+    },
+    {
+        "marka": "GAZ",
+        "model": "M-20 Pobeda"
+    },
+    {
+        "marka": "GAZ",
+        "model": "M-21"
+    },
+    {
+        "marka": "Honda",
+        "model": "M-NV"
+    },
+    {
+        "marka": "BMW",
+        "model": "M-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "M3"
+    },
+    {
+        "marka": "BMW",
+        "model": "M4"
+    },
+    {
+        "marka": "BMW",
+        "model": "M5"
+    },
+    {
+        "marka": "BMW",
+        "model": "M6"
+    },
+    {
+        "marka": "BMW",
+        "model": "M760e xDrive"
+    },
+    {
+        "marka": "BMW",
+        "model": "M8"
+    },
+    {
+        "marka": "BMW",
+        "model": "X5 M"
+    },
+    {
+        "marka": "BMW",
+        "model": "X6 M"
+    },
+    {
+        "marka": "BMW",
+        "model": "XM"
+    },
+    {
+        "marka": "Baic",
+        "model": "M20"
+    },
+    {
+        "marka": "AITO",
+        "model": "M5"
+    },
+    {
+        "marka": "Tufan",
+        "model": "M50"
+    },
+    {
+        "marka": "Haval",
+        "model": "M6"
+    },
+    {
+        "marka": "Baic",
+        "model": "M60"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "MD 22 B"
+    },
+    {
+        "marka": "Acura",
+        "model": "MDX"
+    },
+    {
+        "marka": "Geely",
+        "model": "MK"
+    },
+    {
+        "marka": "Lincoln",
+        "model": "MKZ"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 270"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 280"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 430"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 550"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "ML 63 AMG"
+    },
+    {
+        "marka": "ZIL",
+        "model": "MMZ 45023"
+    },
+    {
+        "marka": "Mazda",
+        "model": "MPV"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "MT-07"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "MT-09"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "MT-15"
+    },
+    {
+        "marka": "Mazda",
+        "model": "MX-30"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Macan"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Macan"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Macan GTS"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Macan S"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Macan Turbo"
+    },
+    {
+        "marka": "Mack",
+        "model": "Mack Anthem"
+    },
+    {
+        "marka": "Kia",
+        "model": "Magentis"
+    },
+    {
+        "marka": "Renault",
+        "model": "Magnum"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Malibu"
+    },
+    {
+        "marka": "Nissan",
+        "model": "March"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Marea"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Mark II"
+    },
+    {
+        "marka": "MG",
+        "model": "Marvel R"
+    },
+    {
+        "marka": "Renault",
+        "model": "Master"
+    },
+    {
+        "marka": "Kanuni",
+        "model": "Mati 125"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Matiz"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Matiz"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Matrix"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Matrix"
+    },
+    {
+        "marka": "Ford",
+        "model": "Maverick"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Maxima"
+    },
+    {
+        "marka": "Renault",
+        "model": "Megane"
+    },
+    {
+        "marka": "Renault",
+        "model": "Megane Scenic"
+    },
+    {
+        "marka": "Opel",
+        "model": "Meriva"
+    },
+    {
+        "marka": "Royal Enfield",
+        "model": "Meteor 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Metris"
+    },
+    {
+        "marka": "Alfa Romeo",
+        "model": "MiTo"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Micra"
+    },
+    {
+        "marka": "Renault",
+        "model": "Midlum"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Mighty EX6"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Mighty EX9"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Mint"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Mirage"
+    },
+    {
+        "marka": "Tesla",
+        "model": "Model 3"
+    },
+    {
+        "marka": "Tesla",
+        "model": "Model S"
+    },
+    {
+        "marka": "Tesla",
+        "model": "Model X"
+    },
+    {
+        "marka": "Tesla",
+        "model": "Model Y"
+    },
+    {
+        "marka": "Renault",
+        "model": "Modus"
+    },
+    {
+        "marka": "Kia",
+        "model": "Mohave"
+    },
+    {
+        "marka": "Opel",
+        "model": "Mokka"
+    },
+    {
+        "marka": "Ford",
+        "model": "Mondeo"
+    },
+    {
+        "marka": "Geely",
+        "model": "Monjaro"
+    },
+    {
+        "marka": "Zontes",
+        "model": "Monster 125"
+    },
+    {
+        "marka": "Ducati",
+        "model": "Monster 796"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Montero"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Monza"
+    },
+    {
+        "marka": "Kia",
+        "model": "Morning"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "Moto"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "150 NK"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "250 CL-X"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "300 NK"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "300 SR"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "450 SR"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "650 MT"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "650 NK"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "700 CL-X Adventure"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "700 CL-X Heritage"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "700 CL-X Sport"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "800 MT Explore"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "800 MT Touring"
+    },
+    {
+        "marka": "Opel",
+        "model": "Movano"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Mufasa"
+    },
+    {
+        "marka": "Bentley",
+        "model": "Mulsanne"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Multivan"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Murano"
+    },
+    {
+        "marka": "Muravey",
+        "model": "Muravey- 2 01"
+    },
+    {
+        "marka": "Muravey",
+        "model": "Muravey- 2 02"
+    },
+    {
+        "marka": "KG Mobility",
+        "model": "Musso"
+    },
+    {
+        "marka": "Ford",
+        "model": "Mustang"
+    },
+    {
+        "marka": "Ford",
+        "model": "Mustang Mach-E"
+    },
+    {
+        "marka": "Mercury",
+        "model": "Mystique"
+    },
+    {
+        "marka": "JMC",
+        "model": "N900"
+    },
+    {
+        "marka": "Bestune",
+        "model": "NAT"
+    },
+    {
+        "marka": "GAZ",
+        "model": "NEXT A68R52 CITY LINE"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NHR 55 E"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NKR 55 E"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NKR 55 L"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NKR 66 E"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NMR 77 H"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NMR 85 H"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR 400"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR 66 L"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR 66 P"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR 75 K"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR 75 L"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NPR75L-K"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "NQR90L-K"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 200"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 200t"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 250"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 300"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 300h"
+    },
+    {
+        "marka": "Lexus",
+        "model": "NX 350h"
+    },
+    {
+        "marka": "DongFeng",
+        "model": "Nano Box"
+    },
+    {
+        "marka": "Jiangmen",
+        "model": "Nav 450"
+    },
+    {
+        "marka": "Jiangmen",
+        "model": "Nav 500"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Navara"
+    },
+    {
+        "marka": "Lincoln",
+        "model": "Navigator"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Neon"
+    },
+    {
+        "marka": "Kanuni",
+        "model": "Nev 50"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Nexia"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Nexia"
+    },
+    {
+        "marka": "Ravon",
+        "model": "Nexia R3"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next"
+    },
+    {
+        "marka": "RKS",
+        "model": "Next 50"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A21R22-30"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A21R32-30"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A22R32"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A31R22"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A32R32-40"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next A65R52"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next C41RB3"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Next А31R32"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Niken GT"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Ninja 300"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Ninja 400"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Ninja 650"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Ninja ZX-10R"
+    },
+    {
+        "marka": "Kia",
+        "model": "Niro"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Nitro"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Niva"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Niva"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Niva Bronto"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Niva Travel"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Noah"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Note"
+    },
+    {
+        "marka": "Grandmoto",
+        "model": "Nova"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Nubira"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Nubira"
+    },
+    {
+        "marka": "GWM",
+        "model": "ORA"
+    },
+    {
+        "marka": "GWM",
+        "model": "ORA"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Octavia"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Oka"
+    },
+    {
+        "marka": "Geely",
+        "model": "Okavango"
+    },
+    {
+        "marka": "FAW",
+        "model": "Oley"
+    },
+    {
+        "marka": "Foton",
+        "model": "Ollin"
+    },
+    {
+        "marka": "Opel",
+        "model": "Omega"
+    },
+    {
+        "marka": "Chery",
+        "model": "Omoda 5"
+    },
+    {
+        "marka": "MG",
+        "model": "One"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Onix"
+    },
+    {
+        "marka": "Kia",
+        "model": "Opirus"
+    },
+    {
+        "marka": "Kia",
+        "model": "Optima"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Orlando"
+    },
+    {
+        "marka": "Changan",
+        "model": "Oshan"
+    },
+    {
+        "marka": "Changan",
+        "model": "Oshan Z6"
+    },
+    {
+        "marka": "Changan",
+        "model": "Oshan A600"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Otoyol"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Outback"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Outlander"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Outlander Sport"
+    },
+    {
+        "marka": "XPeng",
+        "model": "P7"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "PT Cruiser"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "Pacifica"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Pajero"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Pajero Pinin"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Pajero Sport"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Pajero io"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Palisade"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4 E-Hybrid"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4S"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4S E-hybrid"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4S Executive"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera 4S Sport Turismo"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera GTS"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera S Hybrid"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera Turbo"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera Turbo Executive"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Panamera Turbo S"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Panda"
+    },
+    {
+        "marka": "Ducati",
+        "model": "Panigale V4 S"
+    },
+    {
+        "marka": "Zontes",
+        "model": "Panther ZT150-8A"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Pars"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Partner"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Passat"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Passat CC"
+    },
+    {
+        "marka": "Voyah",
+        "model": "Passion"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Pathfinder"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Patriot"
+    },
+    {
+        "marka": "UAZ",
+        "model": "Patriot"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Patrol"
+    },
+    {
+        "marka": "GWM",
+        "model": "Pegasus"
+    },
+    {
+        "marka": "Kia",
+        "model": "Picanto"
+    },
+    {
+        "marka": "UAZ",
+        "model": "Pickup"
+    },
+    {
+        "marka": "Honda",
+        "model": "Pilot"
+    },
+    {
+        "marka": "GWM",
+        "model": "Poer"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Polo"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Power Daily A50.13"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Prado"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Praktik"
+    },
+    {
+        "marka": "Kia",
+        "model": "Pregio"
+    },
+    {
+        "marka": "Renault",
+        "model": "Premium 420"
+    },
+    {
+        "marka": "Renault",
+        "model": "Premium 460"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Presage"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Previa"
+    },
+    {
+        "marka": "Kia",
+        "model": "Pride"
+    },
+    {
+        "marka": "Vespa",
+        "model": "Primavera 50"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Primera"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Prince"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Priora"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Prius"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Prius C"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Prius Prime"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Prius V"
+    },
+    {
+        "marka": "BMC",
+        "model": "Pro 832"
+    },
+    {
+        "marka": "Kia",
+        "model": "ProCeed"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Proace"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Probox"
+    },
+    {
+        "marka": "UAZ",
+        "model": "Profi"
+    },
+    {
+        "marka": "Bajaj",
+        "model": "Pulsar NS 160"
+    },
+    {
+        "marka": "Bajaj",
+        "model": "Pulsar NS 200"
+    },
+    {
+        "marka": "Bajaj",
+        "model": "Pulsar RS 200"
+    },
+    {
+        "marka": "Ford",
+        "model": "Puma"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Punto"
+    },
+    {
+        "marka": "Indian Motorcycle",
+        "model": "Pursuit"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q-Series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q45"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q50"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q50S"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q70"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "Q70S"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX4"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q2 e-tron"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q3"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q5"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q5 Sportback"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q7"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q8"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q8 Sportback e-tron"
+    },
+    {
+        "marka": "Audi",
+        "model": "Q8 e-tron"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX-Series"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX50"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX55"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX56"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX60"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX70"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX70S"
+    },
+    {
+        "marka": "Infiniti",
+        "model": "QX80"
+    },
+    {
+        "marka": "XCMG",
+        "model": "QY16G.5"
+    },
+    {
+        "marka": "XCMG",
+        "model": "QY25K-II"
+    },
+    {
+        "marka": "XCMG",
+        "model": "QY25K5-I"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Qashqai"
+    },
+    {
+        "marka": "BYD",
+        "model": "Qin Plus"
+    },
+    {
+        "marka": "Changan",
+        "model": "Qiyuan"
+    },
+    {
+        "marka": "Changan",
+        "model": "Qiyuan A05"
+    },
+    {
+        "marka": "Changan",
+        "model": "Qiyuan A06"
+    },
+    {
+        "marka": "Changan",
+        "model": "Qiyuan A07"
+    },
+    {
+        "marka": "Changan",
+        "model": "Qiyuan Q05"
+    },
+    {
+        "marka": "Maserati",
+        "model": "Quattroporte"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Qubo"
+    },
+    {
+        "marka": "Saipa",
+        "model": "Quik"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "R-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "R 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "R 350"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "R15M"
+    },
+    {
+        "marka": "Ravon",
+        "model": "R2"
+    },
+    {
+        "marka": "Ravon",
+        "model": "R4"
+    },
+    {
+        "marka": "Scania",
+        "model": "R420"
+    },
+    {
+        "marka": "Scania",
+        "model": "R440"
+    },
+    {
+        "marka": "Scania",
+        "model": "R480"
+    },
+    {
+        "marka": "Scania",
+        "model": "R500"
+    },
+    {
+        "marka": "Audi",
+        "model": "R8"
+    },
+    {
+        "marka": "Toyota",
+        "model": "RAV4"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "RAY-ZR"
+    },
+    {
+        "marka": "KTM",
+        "model": "RC 390"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RC-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RC 200t"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "RCZ"
+    },
+    {
+        "marka": "Radar",
+        "model": "RD6"
+    },
+    {
+        "marka": "Jiangmen",
+        "model": "RGMT"
+    },
+    {
+        "marka": "Jiangmen",
+        "model": "RGV8"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "RR Evoque"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "RR Sport"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "RR Velar"
+    },
+    {
+        "marka": "Aprilia",
+        "model": "RS 125"
+    },
+    {
+        "marka": "Audi",
+        "model": "RS4"
+    },
+    {
+        "marka": "Audi",
+        "model": "RS7"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 200t"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 300"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 330"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 350"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 350h"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 450h"
+    },
+    {
+        "marka": "Lexus",
+        "model": "RX 500h"
+    },
+    {
+        "marka": "Zongshen",
+        "model": "RX3S"
+    },
+    {
+        "marka": "MG",
+        "model": "RX8"
+    },
+    {
+        "marka": "Kuba",
+        "model": "RX9"
+    },
+    {
+        "marka": "Polaris",
+        "model": "RZR XP 1000"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Racer"
+    },
+    {
+        "marka": "Geely",
+        "model": "Radar RD6"
+    },
+    {
+        "marka": "Changan",
+        "model": "Raeton"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Raize"
+    },
+    {
+        "marka": "Dodge",
+        "model": "Ram"
+    },
+    {
+        "marka": "Land Rover",
+        "model": "Range Rover"
+    },
+    {
+        "marka": "Ford",
+        "model": "Ranger"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Rapid"
+    },
+    {
+        "marka": "Aston Martin",
+        "model": "Rapide"
+    },
+    {
+        "marka": "Kia",
+        "model": "Ray"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Ray Z 115"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "RayZR Street Rally 125"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Renegade"
+    },
+    {
+        "marka": "Ssang Yong",
+        "model": "Rexton"
+    },
+    {
+        "marka": "KG Mobility",
+        "model": "Rexton"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Rezzo"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Rezzo"
+    },
+    {
+        "marka": "Honda",
+        "model": "Ridgeline"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Rifter"
+    },
+    {
+        "marka": "Kia",
+        "model": "Rio"
+    },
+    {
+        "marka": "Kia",
+        "model": "Rio X-Line"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Rogue"
+    },
+    {
+        "marka": "Ferrari",
+        "model": "Roma"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Roomster"
+    },
+    {
+        "marka": "Mitsubishi",
+        "model": "Rosa"
+    },
+    {
+        "marka": "Iran Khodro",
+        "model": "Runna"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Rush"
+    },
+    {
+        "marka": "Tufan",
+        "model": "S 150"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 400"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 450"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 500"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 560"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 580 4MATIC"
+    },
+    {
+        "marka": "Mercedes-Maybach",
+        "model": "S 600"
+    },
+    {
+        "marka": "SMZ",
+        "model": "S-3D"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "S-Cross"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "280 SE"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "280 SEL"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "300 SEL"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 280"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 300"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 320"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 350"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 350 d"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 350 d 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 400"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 400 d"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 400 d 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 420"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 430"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 450"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 450 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 500"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 500 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 500 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 55 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 550"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 550 e"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 560 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 580 4MATIC"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 600"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 63 AMG"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 63 AMG Coupe"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "S 65 AMG"
+    },
+    {
+        "marka": "Volvo",
+        "model": "S40"
+    },
+    {
+        "marka": "Audi",
+        "model": "S5"
+    },
+    {
+        "marka": "Volvo",
+        "model": "S60"
+    },
+    {
+        "marka": "Forthing",
+        "model": "S60 EV"
+    },
+    {
+        "marka": "Audi",
+        "model": "S8"
+    },
+    {
+        "marka": "Volvo",
+        "model": "S80"
+    },
+    {
+        "marka": "Volvo",
+        "model": "S90"
+    },
+    {
+        "marka": "Lexus",
+        "model": "SC-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "SC 300"
+    },
+    {
+        "marka": "Minsk",
+        "model": "SCR 250"
+    },
+    {
+        "marka": "Khazar",
+        "model": "SD"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SL-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SL 63 AMG"
+    },
+    {
+        "marka": "Shaolin",
+        "model": "SLG 6602"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SLK-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SLK 200"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SLK 230"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "SLK 280"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "SRX"
+    },
+    {
+        "marka": "Shacman",
+        "model": "SX3314DT366"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "SX4"
+    },
+    {
+        "marka": "Vespa",
+        "model": "SXL 150"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Sadko C42A43"
+    },
+    {
+        "marka": "GWM",
+        "model": "Safe"
+    },
+    {
+        "marka": "Tofas",
+        "model": "Sahin"
+    },
+    {
+        "marka": "Saipa",
+        "model": "Saina"
+    },
+    {
+        "marka": "Iran Khodro",
+        "model": "Samand"
+    },
+    {
+        "marka": "Renault",
+        "model": "Sandero"
+    },
+    {
+        "marka": "Dacia",
+        "model": "Sandero"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Santa Cruz"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Santa Fe"
+    },
+    {
+        "marka": "GMC",
+        "model": "Savana"
+    },
+    {
+        "marka": "Renault",
+        "model": "Scenic"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Scirocco"
+    },
+    {
+        "marka": "Ford",
+        "model": "Scorpio"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seagull"
+    },
+    {
+        "marka": "BYD",
+        "model": "Seal"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "Sebring"
+    },
+    {
+        "marka": "Kia",
+        "model": "Seltos"
+    },
+    {
+        "marka": "Baic",
+        "model": "Senova D70"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Sentra"
+    },
+    {
+        "marka": "Kia",
+        "model": "Sephia"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Sequoia"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Serena"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Sharan"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Sienna"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Sienta"
+    },
+    {
+        "marka": "Opel",
+        "model": "Signum"
+    },
+    {
+        "marka": "HOWO",
+        "model": "Sinotruk"
+    },
+    {
+        "marka": "Opel",
+        "model": "Sintra"
+    },
+    {
+        "marka": "Daihatsu",
+        "model": "Sirion"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "Slavuta"
+    },
+    {
+        "marka": "Kuba",
+        "model": "Sniper 50"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Sobol"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "Softail Deluxe"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Sonata"
+    },
+    {
+        "marka": "BYD",
+        "model": "Song L"
+    },
+    {
+        "marka": "BYD",
+        "model": "Song Plus"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Sonic"
+    },
+    {
+        "marka": "Iran Khodro",
+        "model": "Soren"
+    },
+    {
+        "marka": "Kia",
+        "model": "Sorento"
+    },
+    {
+        "marka": "Kia",
+        "model": "Soul"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Spark"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Splash"
+    },
+    {
+        "marka": "Gabro",
+        "model": "Sport G 250R"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "Sport SIDE X SIDES"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "ZFORCE 1000 Sport"
+    },
+    {
+        "marka": "CFMOTO",
+        "model": "ZFORCE 950 Sport"
+    },
+    {
+        "marka": "Kia",
+        "model": "Sportage"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "Sportster Forty Eight"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "Sportster S"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 208"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 209"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 211"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 212"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 213"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 216"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 219"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 308"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 311"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 312"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 313"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 314"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 315"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 316"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 318"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 411"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 412"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 413"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 416"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 511"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 513"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 515"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 516"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 518"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Sprinter 524"
+    },
+    {
+        "marka": "Can-Am",
+        "model": "Spyder F3"
+    },
+    {
+        "marka": "Can-Am",
+        "model": "Spyder RT"
+    },
+    {
+        "marka": "Changan",
+        "model": "Star"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Staria"
+    },
+    {
+        "marka": "Alfa Romeo",
+        "model": "Stelvio"
+    },
+    {
+        "marka": "Kia",
+        "model": "Stinger"
+    },
+    {
+        "marka": "Kia",
+        "model": "Stonic"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "Stryker"
+    },
+    {
+        "marka": "Otokar",
+        "model": "Sultan Mega"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Sunny"
+    },
+    {
+        "marka": "JAC",
+        "model": "Sunray"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Superb"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Surf"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Suzuki Moto"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "AN 400"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "GSF 600S Bandit"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "GSR 600"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "GSR 750"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "GSX-R 1000"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "GSX-R 750"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Inazuma 250"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Intruder M1800R"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Kingquad 750"
+    },
+    {
+        "marka": "Chery",
+        "model": "Sweet (QQ)"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Swift"
+    },
+    {
+        "marka": "Renault",
+        "model": "Symbol"
+    },
+    {
+        "marka": "Leapmotor",
+        "model": "T03"
+    },
+    {
+        "marka": "Tufan",
+        "model": "T10 Max"
+    },
+    {
+        "marka": "Tufan",
+        "model": "T11 Max"
+    },
+    {
+        "marka": "Jetour",
+        "model": "T2"
+    },
+    {
+        "marka": "Zontes",
+        "model": "T310"
+    },
+    {
+        "marka": "Bestune",
+        "model": "T33"
+    },
+    {
+        "marka": "Forthing",
+        "model": "T5 EVO"
+    },
+    {
+        "marka": "Bestune",
+        "model": "T55"
+    },
+    {
+        "marka": "JAC",
+        "model": "T6"
+    },
+    {
+        "marka": "Bestune",
+        "model": "T77"
+    },
+    {
+        "marka": "JAC",
+        "model": "T8"
+    },
+    {
+        "marka": "Bestune",
+        "model": "T99"
+    },
+    {
+        "marka": "Muravey",
+        "model": "TG200"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 18.400"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 18.440"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 18.463"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 18.480"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 26.430"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 26.440"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGA 33.480"
+    },
+    {
+        "marka": "Muravey",
+        "model": "TGA200-01"
+    },
+    {
+        "marka": "Muravey",
+        "model": "TGA200-01P"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGL 12.240"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGX 18.440"
+    },
+    {
+        "marka": "MAN",
+        "model": "TGX 18.480"
+    },
+    {
+        "marka": "Audi",
+        "model": "TT"
+    },
+    {
+        "marka": "Geely",
+        "model": "TX4"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Tacoma"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Tahoe"
+    },
+    {
+        "marka": "BYD",
+        "model": "Tang"
+    },
+    {
+        "marka": "GWM",
+        "model": "Tank"
+    },
+    {
+        "marka": "GWM",
+        "model": "Tank 300"
+    },
+    {
+        "marka": "GWM",
+        "model": "Tank 500"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "Tavriya"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan 4 Cross Turismo"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan 4S"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan GTS"
+    },
+    {
+        "marka": "Porsche",
+        "model": "Taycan Turbo S"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Tayron"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Teana"
+    },
+    {
+        "marka": "Ford",
+        "model": "Tempo"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Tempra"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Tercel"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Terracan"
+    },
+    {
+        "marka": "GMC",
+        "model": "Terrain"
+    },
+    {
+        "marka": "ZX Auto",
+        "model": "Terralord"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Terrano"
+    },
+    {
+        "marka": "Saipa",
+        "model": "Tiba"
+    },
+    {
+        "marka": "Daewoo",
+        "model": "Tico"
+    },
+    {
+        "marka": "FAW",
+        "model": "Tiger VH"
+    },
+    {
+        "marka": "FAW",
+        "model": "Tiger VH-L"
+    },
+    {
+        "marka": "FAW",
+        "model": "Tiger VN"
+    },
+    {
+        "marka": "FAW",
+        "model": "Tiger VR"
+    },
+    {
+        "marka": "Zontes",
+        "model": "Tiger ZT150-3A"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo (T11)"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 2"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 2 Pro"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 3"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 5"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 7"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 7 Pro"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 7 Pro e+\t"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 8 Pro"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 8 Pro Max"
+    },
+    {
+        "marka": "Chery",
+        "model": "Tiggo 8 Pro e+"
+    },
+    {
+        "marka": "Opel",
+        "model": "Tigra"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Tiguan"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Tiida"
+    },
+    {
+        "marka": "Fiat",
+        "model": "Tipo"
+    },
+    {
+        "marka": "KG Mobility",
+        "model": "Tivoli"
+    },
+    {
+        "marka": "SEAT",
+        "model": "Toledo"
+    },
+    {
+        "marka": "Renault",
+        "model": "Tondar"
+    },
+    {
+        "marka": "KG Mobility",
+        "model": "Torres"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Touareg"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Touran"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "Touring Electra Glide"
+    },
+    {
+        "marka": "Ford",
+        "model": "Tourneo Connect"
+    },
+    {
+        "marka": "Ford",
+        "model": "Tourneo Custom"
+    },
+    {
+        "marka": "Lincoln",
+        "model": "Town Car"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Tracker"
+    },
+    {
+        "marka": "Renault",
+        "model": "Trafic"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "TrailBlazer"
+    },
+    {
+        "marka": "Iveco",
+        "model": "Trakker"
+    },
+    {
+        "marka": "Ford",
+        "model": "Transit"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Transporter"
+    },
+    {
+        "marka": "Peugeot",
+        "model": "Traveller"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Traverse"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Trax"
+    },
+    {
+        "marka": "Subaru",
+        "model": "Tribeca"
+    },
+    {
+        "marka": "Kanuni",
+        "model": "Trodon XS 50"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi E8"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi E9"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi ES9"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi GA5"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi GS4"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi GS5"
+    },
+    {
+        "marka": "GAC",
+        "model": "Trumpchi GS8"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Tucson"
+    },
+    {
+        "marka": "Geely",
+        "model": "Tugella"
+    },
+    {
+        "marka": "Geely",
+        "model": "Tugella"
+    },
+    {
+        "marka": "Geely",
+        "model": "Tugella S"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Tundra"
+    },
+    {
+        "marka": "Aprilia",
+        "model": "Tuono 660"
+    },
+    {
+        "marka": "Isuzu",
+        "model": "Turkuaz"
+    },
+    {
+        "marka": "Neta",
+        "model": "U"
+    },
+    {
+        "marka": "Forthing",
+        "model": "U-Tour"
+    },
+    {
+        "marka": "VGV",
+        "model": "U70 Pro"
+    },
+    {
+        "marka": "VGV",
+        "model": "U75 Plus"
+    },
+    {
+        "marka": "Lexus",
+        "model": "UX-series"
+    },
+    {
+        "marka": "Lexus",
+        "model": "UX 250h"
+    },
+    {
+        "marka": "Changan",
+        "model": "Uni-K"
+    },
+    {
+        "marka": "Changan",
+        "model": "Uni-K iDD"
+    },
+    {
+        "marka": "Changan",
+        "model": "Uni-T"
+    },
+    {
+        "marka": "Changan",
+        "model": "Uni-V"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Urban Cruiser"
+    },
+    {
+        "marka": "Lamborghini",
+        "model": "Urus"
+    },
+    {
+        "marka": "Neta",
+        "model": "V"
+    },
+    {
+        "marka": "Volvo",
+        "model": "V 90"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "V Rod Muscle"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "V-Сlass"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "V 220"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "V 230"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "V 250"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Viano"
+    },
+    {
+        "marka": "Volvo",
+        "model": "V40"
+    },
+    {
+        "marka": "Moto Guzzi",
+        "model": "V9"
+    },
+    {
+        "marka": "Moto Guzzi",
+        "model": "V9 Bobber"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "VL800 Intruder"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "VN 1700 Vulcan"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "VN 900 Vulcan"
+    },
+    {
+        "marka": "Haojue",
+        "model": "VN100"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "VRSCF V-Rod Muscle"
+    },
+    {
+        "marka": "Saturn",
+        "model": "VUE"
+    },
+    {
+        "marka": "Vespa",
+        "model": "VXL 150"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vaneo"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Vanette"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vectra"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Veloster"
+    },
+    {
+        "marka": "Volkswagen",
+        "model": "Vento"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Venue"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Venza"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Veracruz"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "Verna"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Versa"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Verso"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Versys 650"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Vesta"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Vesta"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Vesta Cross"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "Vesta SW Cross"
+    },
+    {
+        "marka": "ZAZ",
+        "model": "Vida"
+    },
+    {
+        "marka": "Kanuni",
+        "model": "Visal 125"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vita"
+    },
+    {
+        "marka": "Suzuki",
+        "model": "Vitara"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 108"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 109"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 110"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 111"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 112"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 113"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 114"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 115"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 116"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "Vito 120"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Vitz"
+    },
+    {
+        "marka": "Opel",
+        "model": "Vivaro"
+    },
+    {
+        "marka": "GWM",
+        "model": "Voleex C10"
+    },
+    {
+        "marka": "GWM",
+        "model": "Voleex C30"
+    },
+    {
+        "marka": "GWM",
+        "model": "Voleex C50"
+    },
+    {
+        "marka": "GAZ",
+        "model": "Volga Siber"
+    },
+    {
+        "marka": "Chevrolet",
+        "model": "Volt"
+    },
+    {
+        "marka": "Chrysler",
+        "model": "Voyager"
+    },
+    {
+        "marka": "GWM",
+        "model": "Wingle"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Wingroad"
+    },
+    {
+        "marka": "Grandmoto",
+        "model": "Wolf"
+    },
+    {
+        "marka": "Rolls-Royce",
+        "model": "Wraith"
+    },
+    {
+        "marka": "Jeep",
+        "model": "Wrangler"
+    },
+    {
+        "marka": "ZEEKR",
+        "model": "X"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "X-Class"
+    },
+    {
+        "marka": "Mercedes",
+        "model": "X 250D"
+    },
+    {
+        "marka": "SYM",
+        "model": "X-PRO"
+    },
+    {
+        "marka": "Nissan",
+        "model": "X-Trail"
+    },
+    {
+        "marka": "Mondial",
+        "model": "X-Treme MAXX - 200"
+    },
+    {
+        "marka": "Kuba",
+        "model": "X-boss"
+    },
+    {
+        "marka": "BMW",
+        "model": "X-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "X1"
+    },
+    {
+        "marka": "BMW",
+        "model": "X2"
+    },
+    {
+        "marka": "BMW",
+        "model": "X3"
+    },
+    {
+        "marka": "BMW",
+        "model": "X4"
+    },
+    {
+        "marka": "BMW",
+        "model": "X5"
+    },
+    {
+        "marka": "BMW",
+        "model": "X6"
+    },
+    {
+        "marka": "BMW",
+        "model": "X7"
+    },
+    {
+        "marka": "JAC",
+        "model": "X200"
+    },
+    {
+        "marka": "Minsk",
+        "model": "X250"
+    },
+    {
+        "marka": "Baic",
+        "model": "X3"
+    },
+    {
+        "marka": "KAIYI",
+        "model": "X3"
+    },
+    {
+        "marka": "KAIYI",
+        "model": "X3 Pro"
+    },
+    {
+        "marka": "Baic",
+        "model": "X55"
+    },
+    {
+        "marka": "Baic",
+        "model": "X55 II"
+    },
+    {
+        "marka": "Lifan",
+        "model": "X60"
+    },
+    {
+        "marka": "Baic",
+        "model": "X7"
+    },
+    {
+        "marka": "KAIYI",
+        "model": "X7"
+    },
+    {
+        "marka": "Lifan",
+        "model": "X70"
+    },
+    {
+        "marka": "Jetour",
+        "model": "X70"
+    },
+    {
+        "marka": "Jetour",
+        "model": "X70 PLUS"
+    },
+    {
+        "marka": "Jetour",
+        "model": "X90 PLUS"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC60"
+    },
+    {
+        "marka": "Volvo",
+        "model": "XC90"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "XE"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "XF"
+    },
+    {
+        "marka": "DAF",
+        "model": "XF 460 FT"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "XFR"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "XG"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "XJ L"
+    },
+    {
+        "marka": "Jaguar",
+        "model": "XKR-S"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "XL 1200 NS"
+    },
+    {
+        "marka": "KG Mobility",
+        "model": "XLV"
+    },
+    {
+        "marka": "Harley-Davidson",
+        "model": "XR1200X"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "XRAY"
+    },
+    {
+        "marka": "LADA (VAZ)",
+        "model": "XRAY"
+    },
+    {
+        "marka": "Cadillac",
+        "model": "XTS"
+    },
+    {
+        "marka": "Subaru",
+        "model": "XV"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "XV1700 Road Star Warrior"
+    },
+    {
+        "marka": "Shineray",
+        "model": "XY 250"
+    },
+    {
+        "marka": "Nissan",
+        "model": "Xterra"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "YP400 Majesty"
+    },
+    {
+        "marka": "Jonway",
+        "model": "YY50QT-6"
+    },
+    {
+        "marka": "Yamaha",
+        "model": "YZF-R1"
+    },
+    {
+        "marka": "BYD",
+        "model": "Yangwang U8"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Yaris"
+    },
+    {
+        "marka": "Toyota",
+        "model": "Yaris Cross"
+    },
+    {
+        "marka": "Skoda",
+        "model": "Yeti"
+    },
+    {
+        "marka": "BYD",
+        "model": "Yuan Plus"
+    },
+    {
+        "marka": "GMC",
+        "model": "Yukon"
+    },
+    {
+        "marka": "HiPhi",
+        "model": "Z"
+    },
+    {
+        "marka": "BMW",
+        "model": "Z-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "Z3"
+    },
+    {
+        "marka": "BMW",
+        "model": "Z4"
+    },
+    {
+        "marka": "Yadea",
+        "model": "Z3 (Graphene)"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "Z650"
+    },
+    {
+        "marka": "MG",
+        "model": "ZS"
+    },
+    {
+        "marka": "Zontes",
+        "model": "ZT155-G1"
+    },
+    {
+        "marka": "Kawasaki",
+        "model": "ZX-6R"
+    },
+    {
+        "marka": "ZXMCO",
+        "model": "ZX50QT-21"
+    },
+    {
+        "marka": "Opel",
+        "model": "Zafira"
+    },
+    {
+        "marka": "Toyota",
+        "model": "bZ3"
+    },
+    {
+        "marka": "Toyota",
+        "model": "bZ4X"
+    },
+    {
+        "marka": "JAC",
+        "model": "e-JS1"
+    },
+    {
+        "marka": "Audi",
+        "model": "e-tron"
+    },
+    {
+        "marka": "Audi",
+        "model": "e-tron S"
+    },
+    {
+        "marka": "Audi",
+        "model": "e-tron Sportback"
+    },
+    {
+        "marka": "BYD",
+        "model": "e2"
+    },
+    {
+        "marka": "Honda",
+        "model": "e:NP1"
+    },
+    {
+        "marka": "Honda",
+        "model": "e:NS1"
+    },
+    {
+        "marka": "BMW",
+        "model": "i-series"
+    },
+    {
+        "marka": "BMW",
+        "model": "i3"
+    },
+    {
+        "marka": "BMW",
+        "model": "i4"
+    },
+    {
+        "marka": "BMW",
+        "model": "i5"
+    },
+    {
+        "marka": "BMW",
+        "model": "i7"
+    },
+    {
+        "marka": "BMW",
+        "model": "i7 M70"
+    },
+    {
+        "marka": "BMW",
+        "model": "i8"
+    },
+    {
+        "marka": "BMW",
+        "model": "iX"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "i10"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "i20"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "i30"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "i40"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "ix35"
+    },
+    {
+        "marka": "Hyundai",
+        "model": "ix55"
+    }
+]

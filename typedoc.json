@@ -1,0 +1,5 @@
+{
+    "entryPointStrategy": "expand",
+    "entryPoints": ["./app/api", "./app/middlewares", "./lib", "./prisma", "./middleware.ts"],
+    "out": "docs",
+}
