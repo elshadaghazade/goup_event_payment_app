@@ -17,7 +17,7 @@ Before you begin, ensure you have the following installed:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/elshadaghazade/goup-event-app.git
+git clone https://github.com/elshadaghazade/goup_event_payment_app.git
 cd goup-event-app
 ```
 
