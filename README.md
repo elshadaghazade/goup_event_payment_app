@@ -35,13 +35,13 @@ Edit these files to match your local and testing environment configurations. Ens
 
 ### Docker Containers
 
-Run the following command to start the required Docker containers for PostgreSQL and Redis:
+To manage Docker containers for PostgreSQL and Redis, use the following npm command:
 
 ```bash
-docker-compose up -d
+npm run docker
 ```
 
-This command starts the development and test databases as well as the Redis container for caching.
+This command is configured to handle Docker operations that may include starting, stopping, and rebuilding the necessary Docker containers for development and testing environments. Ensure you have Docker and Docker Compose installed and properly configured before running this command.
 
 ### Installing Dependencies
 
