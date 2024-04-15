@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Mediplatform gateway app",
+  name: "GOUP Event Payment App",
   description:
-    "Mediplatform",
+    "GOUP Event Payment App",
   mainNav: [
     {
       title: "Home",
@@ -15,8 +15,8 @@ export const siteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/mediplatform",
-    github: "https://github.com/mediplatform",
+    twitter: "https://twitter.com/goup_event_payment_app",
+    github: "https://github.com/goup_event_payment_app",
     docs: "/api-doc",
   },
 }

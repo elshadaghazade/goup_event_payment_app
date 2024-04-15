@@ -8,7 +8,7 @@ export const getApiDocs = async () => {
     definition: {
       openapi: "3.0.0",
       info: {
-        title: "MediPlatform API Documentation",
+        title: "GOUP Event Payment API Documentation",
         version: "1.0",
       },
       components: {
