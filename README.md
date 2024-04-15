@@ -21,7 +21,7 @@ git clone https://github.com/elshadaghazade/goup_event_payment_app.git
 cd goup-event-app
 ```
 
-## Environment Setup
+### Environment Setup
 
 Copy the **.env.sample** file to create environment-specific files:
 
@@ -33,7 +33,7 @@ cp .env.sample .env.test
 
 Edit these files to match your local and testing environment configurations. Ensure all necessary variables are set, such as **DATABASE_URL**, **REDIS_HOST**, **REDIS_PORT**, and **PAYMES_SECRET**.
 
-## Docker Containers
+### Docker Containers
 
 Run the following command to start the required Docker containers for PostgreSQL and Redis:
 
@@ -43,7 +43,17 @@ docker-compose up -d
 
 This command starts the development and test databases as well as the Redis container for caching.
 
-## Database Migrations
+### Installing Dependencies
+
+After cloning the repository, you need to install the necessary Node.js dependencies. Run the following command inside the project directory:
+
+```bash
+npm install
+```
+
+This command installs all the dependencies defined in **package.json**.
+
+### Database Migrations
 
 Apply database migrations to your PostgreSQL instances:
 
@@ -51,7 +61,7 @@ Apply database migrations to your PostgreSQL instances:
 npm run migrate
 ```
 
-## Seeding the Database
+### Seeding the Database
 
 To populate the database with initial data for testing:
 
@@ -59,7 +69,7 @@ To populate the database with initial data for testing:
 npm run seed
 ```
 
-## Running the Application
+### Running the Application
 
 To start the application in development mode, run:
 
@@ -69,7 +79,7 @@ npm run dev
 
 This command starts the Next.js server with hot reloading enabled.
 
-## Testing
+### Testing
 
 To run the automated tests, use:
 
@@ -79,7 +89,7 @@ npm run test
 
 This command executes the test suite configured for the application.
 
-## Database Documentation
+### Database Documentation
 
 You can view the database schema and relationships via the dbdiagram dashboard:
 
