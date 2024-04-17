@@ -1,4 +1,3 @@
-import * as React from "react";
 import type { NextPage } from "next";
 import Image from "next/image";
 import {
@@ -60,8 +59,14 @@ import {
   HighlightsItem,
   HighlightsTestimonialItem,
 } from "components/highlights";
+import axios from "@/lib/axios";
+import { useEffect, useMemo, useState } from "react";
+import axiosInstance from "@/lib/axios";
+import { participant_role_enum } from "@prisma/client";
+import { EventType, month } from "@/app/interfaces/Events";
 
 const Home: NextPage = () => {
+
   return (
     <Box>
       <SEO
@@ -70,6 +75,8 @@ const Home: NextPage = () => {
       />
       <Box>
         <HeroSection />
+
+        <EventsSection />
 
         <HighlightsSection />
 
@@ -317,6 +324,77 @@ const HighlightsSection = () => {
   );
 };
 
+const EventsSection = () => {
+
+  const [events, setEvents] = useState<EventType[]>([]);
+
+  useEffect(() => {
+    const run = async () => {
+      try {
+        const { status, data } = await axiosInstance.get('/events');
+        if (data?.data?.length) {
+          setEvents(data.data);
+        }
+      } catch { };
+    };
+
+    run();
+  }, []);
+
+  return (
+    <Highlights id="events">
+      <HighlightsItem colSpan={[1, null, 2]} title="Upcoming Events">
+        <VStack alignItems="flex-start" spacing="8">
+          <Text color="muted" fontSize="xl">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, corrupti accusamus. Expedita laboriosam doloremque delectus, distinctio molestias quaerat recusandae odit!
+          </Text>
+        </VStack>
+      </HighlightsItem>
+
+      <HighlightsItem title="Something interesting">
+        <Text color="muted" fontSize="lg">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, atque.
+        </Text>
+      </HighlightsItem>
+
+      {events?.map(event => {
+
+        const start_date = new Date(event.start_date);
+        const end_date = new Date(event.end_date);
+
+        return (
+          <>
+            <HighlightsTestimonialItem
+              key={`event-${event.id}`}
+              name={event.name}
+              description={`Location: ${event.location}`}
+              gradient={["pink.200", "purple.500"]}
+            >
+              <p>Starts: {start_date.getDate()} <span style={{textTransform: 'capitalize'}}>{month[start_date.getMonth()]}</span>, {start_date.getFullYear()} @ {start_date.getHours()}:{start_date.getMinutes()}</p>
+              <p>Ends: {end_date.getDate()} <span style={{textTransform: 'capitalize'}}>{month[end_date.getMonth()]}</span>, {end_date.getFullYear()} @ {end_date.getHours()}:{end_date.getMinutes()}</p>
+            </HighlightsTestimonialItem>
+            <HighlightsItem
+              colSpan={[1, null, 2]}
+              title=""
+            >
+              <Text color="muted" fontSize="lg">
+                {event.description}
+                <div>
+                  <Text>Participants: {event.participants.length}</Text>
+                </div>
+                <div>
+                  <Button variant={'primary'}>BUY TICKET</Button>
+                </div>
+              </Text>
+            </HighlightsItem>
+          </>
+        )
+      })}
+
+    </Highlights>
+  );
+};
+
 const FeaturesSection = () => {
   return (
     <Features
@@ -418,7 +496,7 @@ const FeaturesSection = () => {
 };
 
 const TestimonialsSection = () => {
-  const columns = React.useMemo(() => {
+  const columns = useMemo(() => {
     return testimonials.items.reduce<Array<typeof testimonials.items>>(
       (columns, t, i) => {
         columns[i % 3].push(t);
@@ -465,6 +543,7 @@ const FaqSection = () => {
 export default Home;
 
 export async function getStaticProps() {
+
   return {
     props: {
       announcement: {

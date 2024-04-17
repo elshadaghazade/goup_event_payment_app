@@ -14,7 +14,7 @@ import { FaTwitter } from "react-icons/fa";
 export interface TestimonialProps extends CardProps {
   name: string;
   description: React.ReactNode;
-  avatar: string;
+  avatar?: string;
   href?: string;
   children?: React.ReactNode;
 }
@@ -30,7 +30,7 @@ export const Testimonial = ({
   return (
     <Card position="relative" {...rest}>
       <CardHeader display="flex" flexDirection="row" alignItems="center">
-        <Avatar name={name} src={avatar} size="sm" bg="transparent" />
+        {avatar && <Avatar name={name} src={avatar} size="sm" bg="transparent" />}
         <Stack spacing="1" ms="4">
           <Heading size="sm">{name}</Heading>
           <Text color="muted" size="xs">

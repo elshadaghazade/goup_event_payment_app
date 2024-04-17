@@ -9,7 +9,12 @@ export const searchEvents = async () => {
                     gte: new Date()
                 }
             },
-            ...eventSelect
+            ...eventSelect,
+            orderBy: [
+                {
+                    start_date: 'desc'
+                }
+            ]
         });
 
         return events;
